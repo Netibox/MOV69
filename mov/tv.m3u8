@@ -31,3 +31,36 @@ https://hls.iptv-th.workers.dev/live/146/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/132/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/mono.png" group-title="ดิจิตอลทีวี",MONO 29
 https://hls.iptv-th.workers.dev/live/134/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/0f2M4u6qJhzช่อง.jpg" group-title="ข่าวต่างประเทศ",Fox News
+https://hls.iptv-th.workers.dev/live/421/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/kuMhoXcZhUiช่อง.jpg" group-title="ข่าวต่างประเทศ",Fox Business
+https://hls.iptv-th.workers.dev/live/424/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/OfdIVgwT2z37JushUjrBKuHupl2ZuXhaljazeera.png" group-title="ข่าวต่างประเทศ",Aljazeera
+https://hls.iptv-th.workers.dev/live/46/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/knNairwWVxGRGlyQKbkWnJmu6r64zcWUntitled-1.jpg" group-title="ข่าวต่างประเทศ",Australia Network ABC
+https://hls.iptv-th.workers.dev/live/47/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/O3xeqWC09NE7nNz9Cwr9IGLZTqxjkwwbbcnews.png" group-title="ข่าวต่างประเทศ",BBC News
+https://hls.iptv-th.workers.dev/live/50/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/gtto7ncVZ9FpJdIMhLPdKDHKeu03eNEcnn.png" group-title="ข่าวต่างประเทศ",CNN
+https://hls.iptv-th.workers.dev/live/56/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/AhM2QQMguVntmxzQCGx4RUh5noGEa8sUntitled-1-Recovered.jpg" group-title="ข่าวต่างประเทศ",CNBC
+https://hls.iptv-th.workers.dev/live/244/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/KIRPvITufE2HQJxGUDutfgEzIZcrVwknhk.png" group-title="ข่าวต่างประเทศ",NHK
+https://hls.iptv-th.workers.dev/live/90/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/GG7O8vEuwZxUntitled-1.jpg" group-title="ข่าวต่างประเทศ",RT - Breaking News
+https://hls.iptv-th.workers.dev/live/270/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/J8k35CRWSARUntitled-1.jpg" group-title="ข่าวต่างประเทศ",CGTN
+https://hls.iptv-th.workers.dev/live/272/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/vhXW2dqbDoVUntitled-1.jpg" group-title="ข่าวต่างประเทศ",CNA
+https://hls.iptv-th.workers.dev/live/273/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/20krEYgISTOUntitled-1.jpg" group-title="ข่าวต่างประเทศ",Euronews
+https://hls.iptv-th.workers.dev/live/274/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/yAhmgFfF98uUntitled-1.jpg" group-title="ข่าวต่างประเทศ",DW
+https://hls.iptv-th.workers.dev/live/275/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/F7geClvzmPKUntitled-1.jpg" group-title="ข่าวต่างประเทศ",France 24
+https://hls.iptv-th.workers.dev/live/276/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/udUv8r8BboRUntitled-1.jpg" group-title="ข่าวต่างประเทศ",News1
+https://hls.iptv-th.workers.dev/live/277/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/LFSdjTsYgf3Untitled-1.jpg" group-title="ข่าวต่างประเทศ",HLN - CNN
+https://hls.iptv-th.workers.dev/live/282/playlist.m3u8
