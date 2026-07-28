@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/3hd.png" group-title="ดิจิตอลทีวี",CH 3 HD
+https://hls.iptv-th.workers.dev/live/127/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/5hd.png" group-title="ดิจิตอลทีวี",CH 5 HD
+https://hls.iptv-th.workers.dev/live/128/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/7hd.png" group-title="ดิจิตอลทีวี",CH 7 HD
+https://hls.iptv-th.workers.dev/live/129/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/8.png" group-title="ดิจิตอลทีวี",CH 8
+https://hls.iptv-th.workers.dev/live/131/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/mcot.png" group-title="ดิจิตอลทีวี",MCOT HD
+https://hls.iptv-th.workers.dev/live/133/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/nbt.png" group-title="ดิจิตอลทีวี",NBT
+https://hls.iptv-th.workers.dev/live/136/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/CAJw7MUj99UhevPkGY0kbT0ER33XBhethairath.png" group-title="ดิจิตอลทีวี",Thai Rath HD
+https://hls.iptv-th.workers.dev/live/141/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/tnn.png" group-title="ดิจิตอลทีวี",TNN 24
+https://hls.iptv-th.workers.dev/live/142/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/one.png" group-title="ดิจิตอลทีวี",ONE HD
+https://hls.iptv-th.workers.dev/live/138/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/thaipbs.png" group-title="ดิจิตอลทีวี",Thai PBS
+https://hls.iptv-th.workers.dev/live/140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/topnews.png" group-title="ดิจิตอลทีวี",Top News
+https://hls.iptv-th.workers.dev/live/143/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/pptv.png" group-title="ดิจิตอลทีวี",PPTV HD
+https://hls.iptv-th.workers.dev/live/139/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/amarin.png" group-title="ดิจิตอลทีวี",Amarin TV HD
+https://hls.iptv-th.workers.dev/live/130/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/workpoint.png" group-title="ดิจิตอลทีวี",Work Point TV
+https://hls.iptv-th.workers.dev/live/146/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/gmm.png" group-title="ดิจิตอลทีวี",GMM 25
+https://hls.iptv-th.workers.dev/live/132/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/mono.png" group-title="ดิจิตอลทีวี",MONO 29
+https://hls.iptv-th.workers.dev/live/134/playlist.m3u8
