@@ -1398,6 +1398,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/history.png" group-title="สารคดี",History HD
+http://45.190.28.50/HISTORY_HD/index.m3u8
 https://hls.iptv-th.workers.dev/live/74/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/discovery.png" group-title="สารคดี",Discovery Channel
 https://hls.iptv-th.workers.dev/live/69/playlist.m3u8
