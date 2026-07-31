@@ -1351,7 +1351,14 @@
 
 
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="กีฬา",MONOMAX 2 A
+https://cdn1.googlecdn.live/duball356/monomax-2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="กีฬา",MONOMAX 2 AA
+https://cdn1.googlecdn.live/duball356/monomax-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="กีฬา",MONOMAX 2 B
+https://cdn1.googlecdn.live/4k/monomax-2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="กีฬา",MONOMAX 2 BB
+https://cdn1.googlecdn.live/4k/monomax-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="กีฬา",True Sport HD
 https://hls.iptv-th.workers.dev/live/79/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd2.png" group-title="กีฬา",True Sport HD 2
