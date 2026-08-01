@@ -1329,9 +1329,9 @@ https://fernntv.dpdns.org/api/iptv-proxy?url=http://117.18.127.253:8080/live/Typ
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/truethaifilm.png" group-title="ภาพยนตร์",True Thai Film เทสๆ
 http://117.18.127.253:8080/live/TypgLAf1vkASLoYATypgLAf1vkASLoYAZsJEXLvJefHfrfovZsJEXLvJefHfrfov/3xYtUYBCHIvQZy5UCi3xYtUYBCHIvQZy5UCiZCocKhsJFWYgGZZCocKhsJFWYgGZ/119704.m3u8
 #EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE1 SERIES
-https://fernntv.dpdns.org/api/iptv-proxy?url=http://49.0.64.96:8007/SERIES
+http://49.0.64.96:8007/SERIES
 #EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE2 H-Channel
-https://fernntv.dpdns.org/api/iptv-proxy?url=http://49.0.64.96:8007/H-Channel
+http://49.0.64.96:8007/H-Channel
 #EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE3 PING
 https://fernntv.dpdns.org/api/iptv-proxy?url=http://49.0.64.96:8007/PING
 #EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE4 Cartoonumi
