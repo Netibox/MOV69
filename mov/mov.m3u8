@@ -1314,6 +1314,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbo.png" group-title="ภาพยนตร์",HBO HD Thai
 https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbo.png" group-title="ภาพยนตร์",HBO HD Thai สำรอง1
+http://mooseven.ddns.net:8080/live/test/testm7/154020.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbohits.png" group-title="ภาพยนตร์",HBO Hit
 https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbosig.png" group-title="ภาพยนตร์",HBO Signature
