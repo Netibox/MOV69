@@ -1324,7 +1324,10 @@ https://hls.iptv-th.workers.dev/live/72/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/65/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/axn.png" group-title="ภาพยนตร์",AXN HD
 https://hls.iptv-th.workers.dev/live/68/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/lCrOElry5MTJ3aGNq3GN8UlIRQ7LS4rtrueseries.png" group-title="ภาพยนตร์",True Series เทสๆ
+https://fernntv.dpdns.org/api/iptv-proxy?url=http://117.18.127.253:8080/live/TypgLAf1vkASLoYATypgLAf1vkASLoYAZsJEXLvJefHfrfovZsJEXLvJefHfrfov/3xYtUYBCHIvQZy5UCi3xYtUYBCHIvQZy5UCiZCocKhsJFWYgGZZCocKhsJFWYgGZ/103.m3u8
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/truethaifilm.png" group-title="ภาพยนตร์",True Thai Film เทสๆ
+http://117.18.127.253:8080/live/TypgLAf1vkASLoYATypgLAf1vkASLoYAZsJEXLvJefHfrfovZsJEXLvJefHfrfov/3xYtUYBCHIvQZy5UCi3xYtUYBCHIvQZy5UCiZCocKhsJFWYgGZZCocKhsJFWYgGZ/119704.m3u8
 #EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE1 SERIES
 https://fernntv.dpdns.org/api/iptv-proxy?url=http://49.0.64.96:8007/SERIES
 #EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE2 H-Channel
