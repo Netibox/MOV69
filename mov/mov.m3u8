@@ -1315,7 +1315,7 @@
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbo.png" group-title="ภาพยนตร์",HBO HD Thai
 https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbo.png" group-title="ภาพยนตร์",HBO HD Thai สำรอง1
-http://mooseven.ddns.net:8080/live/test/testm7/154020.m3u8
+https://fernntv.dpdns.org/api/iptv-proxy?url=http://mooseven.ddns.net:8080/live/test/testm7/154020.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbohits.png" group-title="ภาพยนตร์",HBO Hit
 https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbosig.png" group-title="ภาพยนตร์",HBO Signature
@@ -1324,6 +1324,27 @@ https://hls.iptv-th.workers.dev/live/72/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/65/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/axn.png" group-title="ภาพยนตร์",AXN HD
 https://hls.iptv-th.workers.dev/live/68/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE1 SERIES
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE2 H-Channel
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE3 PING
+http://49.0.64.96:8007/PING
+#EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE4 Cartoonumi
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE5 
+https://fernntv.dpdns.org/api/iptv-proxy?url=http://mooseven.ddns.net:8080/live/test/testm7/119704.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE6 
+https://fernntv.dpdns.org/api/iptv-proxy?url=http://mooseven.ddns.net:8080/live/test/testm7/119705.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE7 
+https://fernntv.dpdns.org/api/iptv-proxy?url=http://mooseven.ddns.net:8080/live/test/testm7/154020.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE8 
+https://fernntv.dpdns.org/api/iptv-proxy?url=http://mooseven.ddns.net:8080/live/test/testm7/119707.m3u8
+#EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="ภาพยนตร์",MOVIE9 
+https://fernntv.dpdns.org/api/iptv-proxy?url=http://mooseven.ddns.net:8080/live/test/testm7/119703.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/yyXcdVEDUhL8YOcH9hmvHHp4JSq4rH0Untitled-1.jpg" group-title="บันเทิง",Rock Entertainment
 https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/cPv75zm9B3WiGtFrAjl2U1AInA4IpoAUntitled-1.jpg" group-title="บันเทิง",ROCK Action
