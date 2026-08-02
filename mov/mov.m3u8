@@ -1313,7 +1313,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbo.png" group-title="ภาพยนตร์",HBO HD Thai
-https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/119720.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbohits.png" group-title="ภาพยนตร์",HBO Hit
 https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
@@ -1378,19 +1378,19 @@ https://hls.iptv-th.workers.dev/live/62/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/wbtv.png" group-title="ภาพยนตร์",Warner TV
 https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/JP8JpTXuXBScqgUTdSv29pfWuoBGaH0moviehits_(1).png" group-title="ภาพยนตร์",True Movie Hits
-https://hls.iptv-th.workers.dev/live/86/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/105.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/h2vv1IuK5HG1NLi6SGFJh248qYS8JIetruefilmhd.png" group-title="ภาพยนตร์",True Film HD
-https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/238349.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/y3ezDIC5r6qtdqjzTkdIbvsFhGbuK8struefilmhd2_(1).png" group-title="ภาพยนตร์",True Film HD2
 https://hls.iptv-th.workers.dev/live/102/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/truethaifilm.png" group-title="ภาพยนตร์",True Thai Film
-https://hls.iptv-th.workers.dev/live/117/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/104.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/XaSIO94qGjzo3e5EF94PKAXkHvrecl0trueasianmore_(1).png" group-title="ภาพยนตร์",True Asian More
-https://hls.iptv-th.workers.dev/live/103/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/30760.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/oaAofV5K9iC2NrblejU5gX645lMBHjftruefilmasia.png" group-title="ภาพยนตร์",True Film Asia
-https://hls.iptv-th.workers.dev/live/106/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/108.m3u8 
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/lCrOElry5MTJ3aGNq3GN8UlIRQ7LS4rtrueseries.png" group-title="ภาพยนตร์",True Series
-https://hls.iptv-th.workers.dev/live/112/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/103.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/CgLZMVLSZKNMMeGb1H5n2iiN37ODTzl3-logo-3BB-Asian-ช่องรายการ_370x180_(1).jpeg" group-title="ภาพยนตร์",3BB Asia
 https://hls.iptv-th.workers.dev/live/44/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sbLMUWTMUljJyAYYGs1oMA5qgbFuCKNgem.jpeg" group-title="ภาพยนตร์",GEM
