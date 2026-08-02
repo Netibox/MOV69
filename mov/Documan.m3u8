@@ -1397,39 +1397,56 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/history.png" group-title="สารคดี",History HD
-http://45.190.28.50/HISTORY_HD/index.m3u8
-https://hls.iptv-th.workers.dev/live/74/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/discovery.png" group-title="สารคดี",Discovery Channel
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="สารคดี",Discovery 
 https://hls.iptv-th.workers.dev/live/69/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/dbLFi1PM8pqrH4pVCbR3HxZmYdQQP0z1245.jpg" group-title="สารคดี",Animal show
-https://hls.iptv-th.workers.dev/live/329/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/luEFfyPlScmkXkYpGjpUc2IGyaDmMSWUntitled-1.jpg" group-title="สารคดี",Animal Planet
-https://hls.iptv-th.workers.dev/live/66/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/YLUgvxqoWIjDt2txblBTAHYXFZ6xnMPdiscoveryasia.png" group-title="สารคดี",Discovery Asia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Discovery_Asia_logo.png/revision/latest/scale-to-width-down/508?cb=20260411142105&path-prefix=vi" group-title="สารคดี",Discovery Asia
 https://hls.iptv-th.workers.dev/live/57/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/cQiU4gTwIa9samrujlok.png" group-title="สารคดี",สำรวจโลก
-https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/3QMYaUybddn1224556.jpg" group-title="สารคดี",Thainess
-https://hls.iptv-th.workers.dev/live/332/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sMqTXBdzOao123.jpg" group-title="สารคดี",Thai ของดีประเทศไทย
-https://hls.iptv-th.workers.dev/live/335/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/trueexplorerlife.png" group-title="สารคดี",True Explore Life
-https://hls.iptv-th.workers.dev/live/110/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/trueexplorersci.png" group-title="สารคดี",True Explore SCI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="สารคดี",True Xzyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+http://mooseven.ddns.net:8080/live/test/testm7/30876.m3u8
+https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="สารคดี",Explore SCI 
 https://hls.iptv-th.workers.dev/live/111/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/vuTpeJWnlrR6q6k2IIdEOQlUQWBhUkjlove4knature.png" group-title="สารคดี",Love Nature 4K
-https://hls.iptv-th.workers.dev/live/41/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/trueexplorerwild.png" group-title="สารคดี",True Explore Wild
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="สารคดี",True Explore Wild
 https://hls.iptv-th.workers.dev/live/118/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/vZ1unU6TY8EUntitled-1.jpg" group-title="สารคดี",RT Documentary
-https://hls.iptv-th.workers.dev/live/269/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/tlc.png" group-title="สารคดี",TLC
-https://hls.iptv-th.workers.dev/live/78/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/fHbwcuPs4KHci.png" group-title="สารคดี",CI
-https://hls.iptv-th.workers.dev/live/55/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/uYjgVMBjGBFUntitled-2.jpg" group-title="สารคดี",MySci
-https://hls.iptv-th.workers.dev/live/211/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/afn.png" group-title="สารคดี",Asian Food Network
+https://hls.iptv-th.workers.dev/live/38/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://i.imgur.com/vip1JIz.png" group-title="สารคดี",BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="สารคดี",WildEarth
+https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png?_=20240515155053" group-title="สารคดี",Love Nature
+https://restream.pdtvhd.com/memfs/9e6205cb-2c2c-41ed-a7e5-831ccaade4d1.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="สารคดี",Animal Show
+#https://hls.iptv-th.workers.dev/live/329/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="สารคดี",สำรวจโลก
+https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="สารคดี",Animal
+http://49.0.64.96:8007/Animal
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png" group-title="สารคดี",SCIence
+http://49.0.64.96:8007/WSCI
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/150?cb=20210818143837" group-title="สารคดี",CGTN 
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+
+#EXTINF:-1 tvg-id="Food.Network.id" tvg-name="Food Network" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png" group-title="สารคดี",Food Network 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
+
 
 
 #EXTINF:-1 tvg-id="30ALoomeredTV.us@SD" tvg-logo="https://cbs12.com/resources/media/0c1ecad8-fb09-4bb2-beaa-fc561dfe624a-small21x9_LoomerStill.jpg?1603419052801" group-title="Documentary;News",30A Loomered TV
