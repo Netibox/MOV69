@@ -1351,19 +1351,36 @@
 
 
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="กีฬา",True Sport HD
+#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="กีฬา",TRUE Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd2.png" group-title="กีฬา",True Sport HD 2
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd2.png" group-title="กีฬา",TRUE Sport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd3.png" group-title="กีฬา",True Sport HD 3
+
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd3.png" group-title="กีฬา",TRUE Sport 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd4.png" group-title="กีฬา",True Sport HD 4
-https://cdn2.stream.atmflix.live/atmflixlive/tsp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="กีฬา",True Sport 5
-https://cdn2.stream.atmflix.live/atmflixlive/tsp5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd7.png" group-title="กีฬา",True Sport 7
+
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd7.png" group-title="กีฬา",TRUE Sport 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport4.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd4.png" group-title="กีฬา",TRUE Sport 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="กีฬา",TRUE Sport 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp4/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truetennis.png" group-title="กีฬา",True Tennis HD
 https://hls.iptv-th.workers.dev/live/77/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/323/playlist.m3u8
