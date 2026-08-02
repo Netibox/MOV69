@@ -1353,45 +1353,45 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="กีฬา",True Sport HD
-https://hls.iptv-th.workers.dev/live/79/playlist.m3u8
+https://cdn2.stream.atmflix.live/atmflixlive/tsp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd2.png" group-title="กีฬา",True Sport HD 2
-https://hls.iptv-th.workers.dev/live/147/playlist.m3u8
+https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd3.png" group-title="กีฬา",True Sport HD 3
-https://hls.iptv-th.workers.dev/live/148/playlist.m3u8
+https://cdn2.stream.atmflix.live/atmflixlive/tsp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd4.png" group-title="กีฬา",True Sport HD 4
-https://hls.iptv-th.workers.dev/live/80/playlist.m3u8
+https://cdn2.stream.atmflix.live/atmflixlive/tsp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="กีฬา",True Sport 5
-https://hls.iptv-th.workers.dev/live/115/playlist.m3u8
+https://cdn2.stream.atmflix.live/atmflixlive/tsp5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd7.png" group-title="กีฬา",True Sport 7
-https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
+https://cdn2.stream.atmflix.live/atmflixlive/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truetennis.png" group-title="กีฬา",True Tennis HD
 https://hls.iptv-th.workers.dev/live/77/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/323/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein1.png" group-title="กีฬา",Bein sport 1 HD
-https://hls.iptv-th.workers.dev/live/51/playlist.m3u8
+http://139.99.61.175:25461/M9005/6825/151
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein2.png" group-title="กีฬา",Bein sport 2 HD
-https://hls.iptv-th.workers.dev/live/52/playlist.m3u8
+https://fhmnf4mvc0.nuu-mai-kin-pad-nuu-mai-kin-pad.sbs/xstream/bein-2-th/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="กีฬา",Bein sport 3 HD
-https://hls.iptv-th.workers.dev/live/53/playlist.m3u8
+http://139.99.61.175:25461/M9005/6825/152
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/mutv.png" group-title="กีฬา",mutv
-https://hls.iptv-th.workers.dev/live/162/playlist.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312824&extension=m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/LFC-TV.png" group-title="กีฬา",LFC TV
-https://hls.iptv-th.workers.dev/live/161/playlist.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312823&extension=m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/1rsDhCMds4Pช่อง.jpg" group-title="กีฬา",Real Madrid TV
 https://hls.iptv-th.workers.dev/live/430/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/A47xxydQNoaUntitled-2.jpg" group-title="กีฬา",Golf Channel HD
 https://hls.iptv-th.workers.dev/live/176/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/9WrcKirn4Urช่อง.jpg" group-title="กีฬา",PGA Tour
-https://hls.iptv-th.workers.dev/live/540/playlist.m3u8
+https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/2DeiGAp6jUfช่อง.jpg" group-title="กีฬา",LPGA
-https://hls.iptv-th.workers.dev/live/541/playlist.m3u8
+https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/RyAK57buQ0fช่อง.jpg" group-title="กีฬา",DP World TOUR
 https://hls.iptv-th.workers.dev/live/542/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/jFdF6E5g17N2vZ6iHex08eH11zHbZlyspotv.png" group-title="กีฬา",Spotv1
-https://hls.iptv-th.workers.dev/live/95/playlist.m3u8
+http://139.99.61.175:25461/M9005/6825/149
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/MjjNBcRjUcAq8qMlGMLE5lD97u28Quzspotv2.png" group-title="กีฬา",Spotv2
-https://hls.iptv-th.workers.dev/live/96/playlist.m3u8
+http://139.99.61.175:25461/M9005/6825/14229
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truepremiere3.png" group-title="กีฬา",Premier HD3
 https://hls.iptv-th.workers.dev/live/124/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/Rbms5GimDHszosBl7l9ZVZv4wwG9H1Wช่อง-Recovered.jpg" group-title="กีฬา",NFL 1
