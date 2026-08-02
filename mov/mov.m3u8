@@ -1312,8 +1312,18 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbo.png" group-title="ภาพยนตร์",HBO HD Thai
-http://mooseven.ddns.net:8080/live/test/testm7/119720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD เทส1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+#EXTVLCOPT:http-origin=http://m7play.online
+http://mooseven.ddns.net:8080/live/test/testm7/154020.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="ภาพยนตร์",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://canale-tv.net
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbohits.png" group-title="ภาพยนตร์",HBO Hit
 https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
@@ -1377,18 +1387,34 @@ https://hls.iptv-th.workers.dev/live/59/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/62/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/wbtv.png" group-title="ภาพยนตร์",Warner TV
 https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/JP8JpTXuXBScqgUTdSv29pfWuoBGaH0moviehits_(1).png" group-title="ภาพยนตร์",True Movie Hits
-http://mooseven.ddns.net:8080/live/test/testm7/105.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/h2vv1IuK5HG1NLi6SGFJh248qYS8JIetruefilmhd.png" group-title="ภาพยนตร์",True Film HD
-http://mooseven.ddns.net:8080/live/test/testm7/238349.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/y3ezDIC5r6qtdqjzTkdIbvsFhGbuK8struefilmhd2_(1).png" group-title="ภาพยนตร์",True Film HD2
-https://hls.iptv-th.workers.dev/live/102/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/truethaifilm.png" group-title="ภาพยนตร์",True Thai Film
-http://mooseven.ddns.net:8080/live/test/testm7/104.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/XaSIO94qGjzo3e5EF94PKAXkHvrecl0trueasianmore_(1).png" group-title="ภาพยนตร์",True Asian More
+#EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+#EXTVLCOPT:http-origin=http://m7play.online
+http://mooseven.ddns.net:8080/live/test/testm7/108.m3u8
+#EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+#EXTVLCOPT:http-origin=http://m7play.online
 http://mooseven.ddns.net:8080/live/test/testm7/30760.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/oaAofV5K9iC2NrblejU5gX645lMBHjftruefilmasia.png" group-title="ภาพยนตร์",True Film Asia
-http://mooseven.ddns.net:8080/live/test/testm7/108.m3u8 
+#EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+#EXTVLCOPT:http-origin=http://m7play.online
+http://mooseven.ddns.net:8080/live/test/testm7/104.m3u8
+#EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+#EXTVLCOPT:http-origin=http://m7play.online
+http://mooseven.ddns.net:8080/live/test/testm7/238349.m3u8
+#EXTINF:-1 tvg-id="truefilm2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/True_Film_2_logo.png/revision/latest?cb=20240416043007&path-prefix=vi" group-title="ช่องบันเทิง",True Film 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+#EXTVLCOPT:http-origin=http://m7play.online
+#http://mooseven.ddns.net:8080/live/test/testm7/244966.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+#EXTVLCOPT:http-origin=http://m7play.online
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/lCrOElry5MTJ3aGNq3GN8UlIRQ7LS4rtrueseries.png" group-title="ภาพยนตร์",True Series
 http://mooseven.ddns.net:8080/live/test/testm7/103.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/CgLZMVLSZKNMMeGb1H5n2iiN37ODTzl3-logo-3BB-Asian-ช่องรายการ_370x180_(1).jpeg" group-title="ภาพยนตร์",3BB Asia
