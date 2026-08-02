@@ -1319,167 +1319,42 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล",NBTHD
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png" group-title="ช่องทีวีดิจิตอล",ThaiPBSHD
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186620&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png" group-title="ช่องทีวีดิจิตอล",VIPA
-http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png" group-title="ช่องทีวีดิจิตอล",CH5 HD
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186423&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png"group-title="ช่องทีวีดิจิตอล",T-SPorts7
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ช่องทีวีดิจิตอล",TPTV
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186410&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ช่องทีวีดิจิตอล",TNN16
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186626&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ช่องทีวีดิจิตอล",JKN18
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="ช่องทีวีดิจิตอล",NationTV
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png" group-title="ช่องทีวีดิจิตอล",WorkpointTV
-https://global-media.sooplive.com/live/workpoint/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีดิจิตอล",True4U
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ช่องทีวีดิจิตอล",GMM25
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186494&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="ช่องทีวีดิจิตอล",CH8
-https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="ช่องทีวีดิจิตอล",MONO29
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186531&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ช่องทีวีดิจิตอล", MonoPlusHD
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186380&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" group-title="ช่องทีวีดิจิตอล",Mono29Music
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=563008&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ช่องทีวีดิจิตอล",MCOTHD
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186530&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล",ONE31
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186495&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล",ThairathTVHD
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186622&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล",CH3HD
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186421&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล",AmarinTVHD
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186379&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล",CH7HD
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล",PPTVHD
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186560&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล",TopNewsHD
-http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ช่องทีวีดิจิตอล",News1
-http://server1.streamssl.com/stream/news1_mid.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png" group-title="ช่องทีวีดิจิตอล",PoliceTV
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186557&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://13livetv.com/asset/logo-512.png" group-title="ช่องทีวีดิจิตอล",13สยามไท
-https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/ss/suwannabhumi_tv.png" group-title="ช่องทีวีดิจิตอล", สุวรรณภูมิทีวี
-http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNlHC8AT7sZOLzCqWT3c-_UzBMH_iQt_7n6qpI5UmkKTfC113-iVTej3Hr2BI1PAPi6A&usqp=CAU"group-title="ช่องทีวีดิจิตอล",NBT ภาคกลาง
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id=""tvg-logo="https://nbtkhonkaen.prd.go.th/th/file/get/type/thumbnail/file/202502058fa150a9a1e6f99ae474605fe43d742b141732.png"group-title="ช่องทีวีดิจิตอล",NBT ภาคอีสาน
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Jx8WNuSwNQXeMrzQvItTToEgW0w42k4SHA&s"group-title="ช่องทีวีดิจิตอล",NBT ภาคเหนือ
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://yt3.googleusercontent.com/-d8t7MX6bpAbCH3VAvsVpkqZvKfN2d5XR9fFyGosPW-cJ5bBJ4EkxgyFmEIV_TO_TXli2XeGTA=s900-c-k-c0x00ffffff-no-rj"group-title="ช่องทีวีดิจิตอล",NBT ภาคใต้
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/3hd.png" group-title="ดิจิตอลทีวี",CH 3 HD
-https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1782653102&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=jK0bLvj7PK8w5Xw7p7OQDA
+http://mooseven.ddns.net:8080/live/test/testm7/20.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/5hd.png" group-title="ดิจิตอลทีวี",CH 5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/7hd.png" group-title="ดิจิตอลทีวี",CH 7 HD
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/8.png" group-title="ดิจิตอลทีวี",CH 8
-https://hls.iptv-th.workers.dev/live/131/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/15.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/mcot.png" group-title="ดิจิตอลทีวี",MCOT HD
-https://hls.iptv-th.workers.dev/live/133/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/17.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/nbt.png" group-title="ดิจิตอลทีวี",NBT
-https://hls.iptv-th.workers.dev/live/136/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/7.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/CAJw7MUj99UhevPkGY0kbT0ER33XBhethairath.png" group-title="ดิจิตอลทีวี",Thai Rath HD
-https://hls.iptv-th.workers.dev/live/141/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/19.m3u8 
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/tnn.png" group-title="ดิจิตอลทีวี",TNN 24
-https://hls.iptv-th.workers.dev/live/142/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/9.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/one.png" group-title="ดิจิตอลทีวี",ONE HD
-https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/18.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/thaipbs.png" group-title="ดิจิตอลทีวี",Thai PBS
-https://hls.iptv-th.workers.dev/live/140/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/3.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/topnews.png" group-title="ดิจิตอลทีวี",Top News
 https://hls.iptv-th.workers.dev/live/143/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/pptv.png" group-title="ดิจิตอลทีวี",PPTV HD
 https://hls.iptv-th.workers.dev/live/139/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/amarin.png" group-title="ดิจิตอลทีวี",Amarin TV HD
-https://hls.iptv-th.workers.dev/live/130/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/21.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/workpoint.png" group-title="ดิจิตอลทีวี",Work Point TV
-https://hls.iptv-th.workers.dev/live/146/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/12.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/gmm.png" group-title="ดิจิตอลทีวี",GMM 25
-https://hls.iptv-th.workers.dev/live/132/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/14.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/mono.png" group-title="ดิจิตอลทีวี",MONO 29
-https://hls.iptv-th.workers.dev/live/134/playlist.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/16.m3u8
 #EXTINF:-1 tvg-logo="https://mthai.com/app/uploads/2021/05/true4u.jpg" group-title="ดิจิตอลทีวี",true4
-https://live-us1.thaimomo.com/live-as/chTrue4u-2/chunklist_w665258545.m3u8
+http://mooseven.ddns.net:8080/live/test/testm7/13.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT184vCbaShYCtZt5lvXiW8bBsBwpi9vcomyip4RfHxHw&s" group-title="ดิจิตอลทีวี",Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/0f2M4u6qJhzช่อง.jpg" group-title="ข่าวต่างประเทศ",Fox News
-https://hls.iptv-th.workers.dev/live/421/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/kuMhoXcZhUiช่อง.jpg" group-title="ข่าวต่างประเทศ",Fox Business
-https://hls.iptv-th.workers.dev/live/424/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/OfdIVgwT2z37JushUjrBKuHupl2ZuXhaljazeera.png" group-title="ข่าวต่างประเทศ",Aljazeera
-https://hls.iptv-th.workers.dev/live/46/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/knNairwWVxGRGlyQKbkWnJmu6r64zcWUntitled-1.jpg" group-title="ข่าวต่างประเทศ",Australia Network ABC
-https://hls.iptv-th.workers.dev/live/47/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/O3xeqWC09NE7nNz9Cwr9IGLZTqxjkwwbbcnews.png" group-title="ข่าวต่างประเทศ",BBC News
-https://hls.iptv-th.workers.dev/live/50/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/gtto7ncVZ9FpJdIMhLPdKDHKeu03eNEcnn.png" group-title="ข่าวต่างประเทศ",CNN
-https://hls.iptv-th.workers.dev/live/56/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/AhM2QQMguVntmxzQCGx4RUh5noGEa8sUntitled-1-Recovered.jpg" group-title="ข่าวต่างประเทศ",CNBC
-https://hls.iptv-th.workers.dev/live/244/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/KIRPvITufE2HQJxGUDutfgEzIZcrVwknhk.png" group-title="ข่าวต่างประเทศ",NHK
-https://hls.iptv-th.workers.dev/live/90/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/GG7O8vEuwZxUntitled-1.jpg" group-title="ข่าวต่างประเทศ",RT - Breaking News
-https://hls.iptv-th.workers.dev/live/270/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/J8k35CRWSARUntitled-1.jpg" group-title="ข่าวต่างประเทศ",CGTN
-https://hls.iptv-th.workers.dev/live/272/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/vhXW2dqbDoVUntitled-1.jpg" group-title="ข่าวต่างประเทศ",CNA
-https://hls.iptv-th.workers.dev/live/273/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/20krEYgISTOUntitled-1.jpg" group-title="ข่าวต่างประเทศ",Euronews
-https://hls.iptv-th.workers.dev/live/274/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/yAhmgFfF98uUntitled-1.jpg" group-title="ข่าวต่างประเทศ",DW
-https://hls.iptv-th.workers.dev/live/275/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/F7geClvzmPKUntitled-1.jpg" group-title="ข่าวต่างประเทศ",France 24
-https://hls.iptv-th.workers.dev/live/276/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/udUv8r8BboRUntitled-1.jpg" group-title="ข่าวต่างประเทศ",News1
-https://hls.iptv-th.workers.dev/live/277/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/LFSdjTsYgf3Untitled-1.jpg" group-title="ข่าวต่างประเทศ",HLN - CNN
-https://hls.iptv-th.workers.dev/live/282/playlist.m3u8
