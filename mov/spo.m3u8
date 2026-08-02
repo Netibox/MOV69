@@ -1386,10 +1386,50 @@ https://hls.iptv-th.workers.dev/live/77/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/323/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein1.png" group-title="กีฬา",Bein sport 1 HD
 http://139.99.61.175:25461/M9005/6825/151
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein1.png" group-title="กีฬา",Bein sport 1 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein2.png" group-title="กีฬา",Bein sport 2 HD
 https://fhmnf4mvc0.nuu-mai-kin-pad-nuu-mai-kin-pad.sbs/xstream/bein-2-th/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein2.png" group-title="กีฬา",beIN Sports 2  สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="กีฬา",Bein sport 3 HD
 http://139.99.61.175:25461/M9005/6825/152
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="กีฬา",beIN Sports 3  สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/05/fyr.jpg" group-title="กีฬา",Monomax 1 
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130732
+# --- MONOMAX 2 ---
+#EXTINF:-1 tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/05/fyr.jpg" group-title="กีฬา",Monomax 2
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
+
+#-------------------------------------------------- BG Sports ------------------------------------------------- #
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/bgsport.jpg" group-title="กีฬา",BG sports ถ่ายทอดสด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.com/
+#https://ealivefotex.com/maxsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/bgsport.jpg" group-title="กีฬา",BG sports ถ่ายทอดสด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.com/
+#https://ealivefotex.com/maxsport2/index.m3u8
+
+# ---------------------------------------------------------- All sport in sport-2 ------------------------------------------------------------
+#EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="กีฬา",LFC TV
+https://hls.iptv-th.workers.dev/live/161/playlist.m3u8
+#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="กีฬา",MUTV
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+https://get.perfecttv.net/mutv.mpd
+http://api.plus-server.sbs/play.php?key=1234&ch=mutv
+
+
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/mutv.png" group-title="กีฬา",mutv
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312824&extension=m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/LFC-TV.png" group-title="กีฬา",LFC TV
@@ -1407,8 +1447,18 @@ https://hls.iptv-th.workers.dev/live/542/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/jFdF6E5g17N2vZ6iHex08eH11zHbZlyspotv.png" group-title="กีฬา",Spotv1
 http://139.99.61.175:25461/M9005/6825/149
+#EXTINF:-1 tvg-id="spotv-1-hd" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/jFdF6E5g17N2vZ6iHex08eH11zHbZlyspotv.png" group-title="กีฬา",Spotv1 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/spotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/MjjNBcRjUcAq8qMlGMLE5lD97u28Quzspotv2.png" group-title="กีฬา",Spotv2
 http://139.99.61.175:25461/M9005/6825/14229
+#EXTINF:-1 tvg-id="spotv-2-hd" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/jFdF6E5g17N2vZ6iHex08eH11zHbZlyspotv.png" group-title="กีฬา",Spotv2 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/spotv2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truepremiere3.png" group-title="กีฬา",Premier HD3
 https://hls.iptv-th.workers.dev/live/124/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/Rbms5GimDHszosBl7l9ZVZv4wwG9H1Wช่อง-Recovered.jpg" group-title="กีฬา",NFL 1
