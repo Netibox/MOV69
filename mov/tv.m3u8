@@ -1319,11 +1319,11 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/3hd.png" group-title="ดิจิตอลทีวี",CH 3 HD
-https://hls.iptv-th.workers.dev/live/127/playlist.m3u8
+https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1782653102&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=jK0bLvj7PK8w5Xw7p7OQDA
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/5hd.png" group-title="ดิจิตอลทีวี",CH 5 HD
-https://hls.iptv-th.workers.dev/live/128/playlist.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/7hd.png" group-title="ดิจิตอลทีวี",CH 7 HD
-https://hls.iptv-th.workers.dev/live/129/playlist.m3u8
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/8.png" group-title="ดิจิตอลทีวี",CH 8
 https://hls.iptv-th.workers.dev/live/131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/mcot.png" group-title="ดิจิตอลทีวี",MCOT HD
@@ -1335,7 +1335,7 @@ https://hls.iptv-th.workers.dev/live/141/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/tnn.png" group-title="ดิจิตอลทีวี",TNN 24
 https://hls.iptv-th.workers.dev/live/142/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/one.png" group-title="ดิจิตอลทีวี",ONE HD
-https://hls.iptv-th.workers.dev/live/138/playlist.m3u8
+https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/thaipbs.png" group-title="ดิจิตอลทีวี",Thai PBS
 https://hls.iptv-th.workers.dev/live/140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/topnews.png" group-title="ดิจิตอลทีวี",Top News
@@ -1350,6 +1350,10 @@ https://hls.iptv-th.workers.dev/live/146/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/132/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/mono.png" group-title="ดิจิตอลทีวี",MONO 29
 https://hls.iptv-th.workers.dev/live/134/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mthai.com/app/uploads/2021/05/true4u.jpg" group-title="ดิจิตอลทีวี",true4
+https://live-us1.thaimomo.com/live-as/chTrue4u-2/chunklist_w665258545.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT184vCbaShYCtZt5lvXiW8bBsBwpi9vcomyip4RfHxHw&s" group-title="ดิจิตอลทีวี",Channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/0f2M4u6qJhzช่อง.jpg" group-title="ข่าวต่างประเทศ",Fox News
 https://hls.iptv-th.workers.dev/live/421/playlist.m3u8
