@@ -1321,12 +1321,13 @@
 
 #EXTINF:-1 tvg-chno="33"  tvg-id="3 HD.th" tvg-name="3 HD" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",3HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/18.m3u8
+#EXTVLCOPT:http-referrer=https://live-us1.thaimomo.com/live-as/ch3hd-3/
+https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 
 #EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://thaitv5hd.com/web/img/logo.png",5HD
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://dootvz.ddns.net:25461/
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/4.m3u8
+#EXTVLCOPT:http-referrer=https://639bc5877c5fe.streamlock.net/tv5hdlive/
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
 #EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ch-7-HD-Logo-crop.png/250px-Ch-7-HD-Logo-crop.png",7HD
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -1360,8 +1361,8 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/9.m3u8
 
 #EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://s.isanook.com/ns/0/ud/1561/7807474/new-logo-thairath.jpg?ip/resize/w728/q80/jpg",ThairathTV
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://famelack.com/tv/th
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/17.m3u8
+#EXTVLCOPT:http-referrer=https://live-us1.thaimomo.com/live-as/
+https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8
 
 #EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/250px-Amarin_TV_HD_34_Logo.svg.png",AmarinTV
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
