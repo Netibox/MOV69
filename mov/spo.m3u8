@@ -1413,6 +1413,11 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/41.m3u8
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net:25461/live/
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/14.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/hd-mono.png" group-title="กีฬาไทย",MONOMAX29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net
+https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fmonomax-2%2Fchunks.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
+
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/9/1/mutv-logo-png_seeklogo-96360.png" group-title="กีฬาไทย",  MUTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net:25461/live/
