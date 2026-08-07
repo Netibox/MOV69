@@ -1347,6 +1347,10 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.beartai.com/wp-content/uploads/2024/07/Cartoon-Network.jpg" group-title="กีฬาไทย",  CN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/65.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2FmNTBkYTItZDZhMy00YzEzLTgyMjMtMjgyM2NmZmM2ODAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="การตูน",  zoomoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1355,7 +1359,7 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/74.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png" group-title="การตูน",  BOOM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/70.m3u8
+http://103.114.203.129:8080//live/toom/12345/72.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-3DA453A3B0-seeklogo.com.png" group-title="การตูน",  Nickjr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1365,21 +1369,23 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/66.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png" group-title="กีฬาไทย",  NITO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/73.m3u8
+http://119.82.250.109:8080/nl.m3u8?id=1012
 
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png" group-title="กีฬาไทย",  DW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/65.m3u8
+https://movieproxy.tawatchai250958.workers.dev/watch?id=dreamworks
 
 #EXTINF:-1 tvg-logo="https://www.beartai.com/wp-content/uploads/2024/07/Cartoon-Network.jpg" group-title="กีฬาไทย",  CN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://119.82.250.109:8080/nl.m3u8?id=1013
-#EXTINF:-1 tvg-logo="https://www.beartai.com/wp-content/uploads/2024/07/Cartoon-Network.jpg" group-title="กีฬาไทย",  CN
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="กีฬาไทย",  Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/65.m3u8 
+http://119.82.250.109:8080/nl.m3u8?id=1008
 
 
 #EXTINF:-1 tvg-logo="https://worldscreen.com/tvkids/wp-content/uploads/sites/9/2017/07/FutureToday-HappyKids-0223.png" group-title="การ์ตูน",HappyKids.us
