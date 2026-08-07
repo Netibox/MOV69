@@ -1398,9 +1398,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="สารคดี",Discovery 
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/89.m3u8
+https://movieproxy.tawatchai250958.workers.dev/watch?id=discovery
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Discovery_Asia_logo.png/revision/latest/scale-to-width-down/508?cb=20260411142105&path-prefix=vi" group-title="สารคดี",Discovery Asia
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/89.m3u8
+https://movieproxy.tawatchai250958.workers.dev/watch?id=discoveryasia
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="สารคดี",True Xzyte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
