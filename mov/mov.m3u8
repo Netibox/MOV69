@@ -1326,14 +1326,18 @@ https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8
+#EXTINF:-1 tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg" group-title="ดูหนัง",HBO-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo
 #EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x822.png" group-title="ดูหนัง",HBO HIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/133.m3u8
+https://iptv.tawatchai250958.workers.dev/?url=http://tiea1.3bbddns.com:28470/4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Hbo_signature.png" group-title="ดูหนัง",HBO SIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/134.m3u8
+https://movieproxy.tawatchai250958.workers.dev/watch?id=aishbosignature
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-12-at-5.57.25-PM.png" group-title="ดูหนัง",HBO Flimaiy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
@@ -1346,12 +1350,12 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/136.m3u8
 #EXTINF:-1 tvg-logo="https://www.adobomagazine.com/wp-content/uploads/2015/09/asd.jpg" group-title="ดูหนัง", AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/131.m3u8
+https://movieproxy.tawatchai250958.workers.dev/watch?id=axn
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="ดูหนัง", CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/118.m3u8
+https://movieproxy.tawatchai250958.workers.dev/watch?id=ccm
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/True_Movie_Hits_logo.png" group-title="ดูหนัง",  True MOVIT HIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1361,14 +1365,17 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/124.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/15/True_Film_Asia_logo.png" group-title="ดูหนัง",  True Film Asin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/123.m3u8
+https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmasia
 
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/260x0-icon.png" group-title="ดูหนัง",  ROCK ACTion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/141.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/True_Movie_Hits_logo.png/revision/latest/scale-to-width-down/284?cb=20240416043110&path-prefix=vi" group-title="ดูหนัง",  truemoviehits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehits
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD เทส1
