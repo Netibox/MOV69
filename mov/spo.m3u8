@@ -1357,53 +1357,41 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net:25461/live/
-https://iptv.tawatchai250958.workers.dev/?url=http://dootvz.ddns.net:25461/live/skycos3/aa2233/35.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 1 HD สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp1/playlist.m3u8
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/23073.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://103.114.203.129:25463/live/
-http://103.114.203.129:8080/live/toom/12345/51.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 2 HD สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp2/playlist.m3u8
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/23074.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://103.114.203.129:25463/live/
-https://103.114.203.129:25463/live/toom/12345/51379.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 3 HD สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/23075.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://103.114.203.129:25463/live/
 https://103.114.203.129:25463/live/toom/12345/51332.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 7 HD สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="กีฬาไทย",Bein1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net:25461/live/
-https://movieproxy.tawatchai250958.workers.dev/watch?id=bein1
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/19088.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="กีฬาไทย",Bein2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net:25461/live/
-https://movieproxy.tawatchai250958.workers.dev/watch?id=bein2
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/19089.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="กีฬาไทย",Bein3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net:25461/live/
-https://movieproxy.tawatchai250958.workers.dev/watch?id=bein3
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/19090.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/1/sportv-logo-png_seeklogo-424355.png" group-title="กีฬาไทย",SPORTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1438,11 +1426,19 @@ https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net:25461/live/
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/61.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/9/1/mutv-logo-png_seeklogo-96360.png" group-title="กีฬาไทย",  MUTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://warpdooball.net
+https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fmutv%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/Liverpool-logo.jpg" group-title="กีฬาไทย", LFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net:25461/live/
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/60.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/Liverpool-logo.jpg" group-title="กีฬาไทย", LFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://warpdooball.net
+https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Flfctv%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/40/1/eurosport-logo-png_seeklogo-407861.png" group-title="กีฬาไทย",  EUROSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
