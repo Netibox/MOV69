@@ -1352,7 +1352,36 @@
 
 #EXTM3U
 
+#----------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="iPTVplus",bein1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="iPTVplus",bein2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="iPTVplus",bein3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="iPTVplus",bein4
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="iPTVplus",bein7
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="iPTVplus",bein8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein8.m3u8
 
+#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/0c3611fd3454.webp",beinsportAU100
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/beinsportAU100.m3u8
+#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/0c3611fd3454.webp",beinsportAU200
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/beinsportAU200.m3u8
+#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://cdn.imgchest.com/files/0c3611fd3454.webp",beinsportAU300
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/beinsportAU300.m3u8
+
+
+
+#----------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="ช่องกีฬาทั่วไป",MAX01
 https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/monom1.m3u8
