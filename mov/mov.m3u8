@@ -1314,10 +1314,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLQpFBBIa2sXWSDyff4MQIKnjJZV6FDsPv4TUjTAmj56vyCOGoDP1T9zwA&s=10" group-title="ดูหนัง",8CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdn-th-vip.livestreaming.in.th/ch8/
-https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/hd-mono.png" group-title="ดูหนัง",MONOMAX29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
@@ -1330,6 +1326,12 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo
+
+#EXTINF:-1 tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg" group-title="ดูหนัง",HBO เซิฟนอก เทสๆ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/mov/hbo.m3u8
+
 #EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x822.png" group-title="ดูหนัง",HBO HIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
@@ -1346,6 +1348,12 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/135.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/136.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLQpFBBIa2sXWSDyff4MQIKnjJZV6FDsPv4TUjTAmj56vyCOGoDP1T9zwA&s=10" group-title="ดูหนัง",8CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdn-th-vip.livestreaming.in.th/ch8/
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adobomagazine.com/wp-content/uploads/2015/09/asd.jpg" group-title="ดูหนัง", AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
