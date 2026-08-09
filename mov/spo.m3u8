@@ -1353,29 +1353,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png",SPORT01
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truesport01.m3u8
-
-#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",SPORT02
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truesport02.m3u8
-	
-#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",SPORT03
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truesport03.m3u8
-
-#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",SPORT04
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truesport04.m3u8
-	
-#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",SPORT05
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truesport05.m3u8
-	
-#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",SPORT07
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truesport07.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="ช่องกีฬาทั่วไป",MAX01
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8
+https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/monom1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="ช่องกีฬาทั่วไป",MAX02
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-2/playlist.m3u8
+https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/monom1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="Sports",beIN Sports 1 Turkey
 https://github.com/zaxacaasada/logotv/raw/refs/heads/main/beinsports1turkey.m3u8
@@ -1412,83 +1395,14 @@ https://github.com/zaxacaasada/logotv/raw/refs/heads/main/sporttv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="Sports",SPORTTV2
 https://github.com/zaxacaasada/logotv/raw/refs/heads/main/sporttv2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="Sports",SPORTTV3
+https://github.com/zaxacaasada/logotv/raw/refs/heads/main/sporttv3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="Sports",SPORTTV4
+https://github.com/zaxacaasada/logotv/raw/refs/heads/main/sporttv4.m3u8
 
-
-#--------------------------------------------------------------------------------------------------------------------------------------
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truesport01.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truesport02.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truesport03.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truesport07.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="กีฬาไทย",Bein1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truebein01.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="กีฬาไทย",Bein2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truebein02.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="กีฬาไทย",Bein3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truebein03.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="กีฬาไทย",Bein4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truebein04.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="กีฬาไทย",Bein5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truebein05.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="กีฬาไทย",Bein5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truebein06.m3u8
-
-
-
-#EXTINF-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2025/10/27/ebbad850-b303-11f0-b265-23dfa726a2d7_webp_original.webp",Football03	
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truefootball03.m3u8
-
-#EXTINF-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2025/10/27/ec2fe140-b303-11f0-9a71-5d73f0864d0d_webp_original.webp",Football04	
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truefootball04.m3u8
-
-#EXTINF-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2025/10/27/ebba3c10-b303-11f0-b265-23dfa726a2d7_webp_original.webp",Football05
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truefootball05.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="Sports",SPORTTV5
+https://github.com/zaxacaasada/logotv/raw/refs/heads/main/sporttv5.m3u8
 
 
 #---------------------------------------------------------------------------------------------------------
