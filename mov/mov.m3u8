@@ -1330,7 +1330,7 @@ https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo
 #EXTINF:-1 tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg" group-title="ดูหนัง",HBO เซิฟนอก เทสๆ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/mov/hbo.m3u8
+https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x822.png" group-title="ดูหนัง",HBO HIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
