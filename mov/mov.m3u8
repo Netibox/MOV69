@@ -1314,61 +1314,59 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/xWuYjyjR5YdhWyQw4AvNHNUbKiqJ3XE1772683559_0f8c50f1b772f7d5fef9.jpg" group-title="ของดีรวมช่อง",Rock X Stream
-https://hls.iptv-th.workers.dev/live/4157/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/lXrL81tV2V1VtVVoPSoZkHWQZoYmp5K20240418201334HBO.jpg" group-title="ของดีรวมช่อง",HBO HD
-https://hls.iptv-th.workers.dev/live/4011/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/bQ4YS0L57syXFOUGjiqdzifrJ7X39Qh20240418201343HBO_Hits.jpg" group-title="ของดีรวมช่อง",HBO Hits
-https://hls.iptv-th.workers.dev/live/4010/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/lH5rtdg3ifB47DixMPKcZnA3RPWXq1T20240418201358HBO_Signature.jpg" group-title="ของดีรวมช่อง",HBO Signature
-https://hls.iptv-th.workers.dev/live/4009/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/UmhPkWMoFLtxwNZe3QUVi8bmMI6h9GJ20240418201412HBO_Family.jpg" group-title="ของดีรวมช่อง",HBO Family
-https://hls.iptv-th.workers.dev/live/4008/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/KnVQV6cQY9cukM79ws1HBDmMTCHq7lk20240418201426cinemax.jpg" group-title="ของดีรวมช่อง",HBO Cinemax
-https://hls.iptv-th.workers.dev/live/4007/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/PInRNtyLBlktvcbbLcDLVdeJABk2B0W202404182013223BBAsian.jpg" group-title="ของดีรวมช่อง",3BB Asian
-https://hls.iptv-th.workers.dev/live/4006/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/9E8tvDHOw6eafJgizlDC19mY4Y79yWK20240418201217Mono29Plus.jpg" group-title="ของดีรวมช่อง",Mono29 Plus
-https://hls.iptv-th.workers.dev/live/4005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/8nv6Gj7KIoHNUoQlnGzFRmkx28QIbUA20240418201607WBTV.jpg" group-title="ของดีรวมช่อง",Warner Tv
-https://hls.iptv-th.workers.dev/live/4004/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/6oDAFDNO861t2Fan3zZp4tpEy7XlqUD20240418201633AXN.jpg" group-title="ของดีรวมช่อง",AXN HD
-https://hls.iptv-th.workers.dev/live/4003/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/U4ay3mkGw4JliPY1T1dnI8wvh00jumS20240418202419True_MoviesHits.jpg" group-title="ของดีรวมช่อง",True Movie Hits
-https://hls.iptv-th.workers.dev/live/4000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/wi0UchAkl1soCyVTRq3NxoN3QPUr6k720240418202244True_FilmAsia.jpg" group-title="ของดีรวมช่อง",True Film Asia
-https://hls.iptv-th.workers.dev/live/3999/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/VGcXZj1a4vopmc4ZHWwrI32AVBk1tDb20240418202437True_Thai_Film.jpg" group-title="ของดีรวมช่อง",True Thai Film
-https://hls.iptv-th.workers.dev/live/3998/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/cL7v6l6Q6HMSEcrouRbvo6cmlfoE5Ls20240418202230True_Series.jpg" group-title="ของดีรวมช่อง",True Series
-https://hls.iptv-th.workers.dev/live/3996/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/v233B66LWKJDyS4ZrT6CsJeHVSxA14vChatGPT_Image_10_ก.พ._2569_21_25_11.png" group-title="ของดีรวมช่อง",True Film HD
-https://hls.iptv-th.workers.dev/live/4123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/2OyiZvxJCvD2sC1AzijiJbludMKnDkRChatGPT_Image_10_ก.พ._2569_21_29_37.png" group-title="ของดีรวมช่อง",True Film HD 2
-https://hls.iptv-th.workers.dev/live/4124/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/12je7QsNXmVj7OtnlZFJOWzrdfKdbRn20240418202614True_Asian_More.jpg" group-title="ของดีรวมช่อง",True Asian More
-https://hls.iptv-th.workers.dev/live/3995/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/RFash764MAXgjDW4OqR1U8dGgmAtsSK20240421154338CCM.jpg" group-title="ของดีรวมช่อง",CCM
-https://hls.iptv-th.workers.dev/live/3994/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/N7Szi4xawuoxTJvI6wZLYicGyznJJaC20240418201201Mono29music.jpg" group-title="ของดีรวมช่อง",Mono 29 Music
-https://hls.iptv-th.workers.dev/live/4111/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/Hh2de9hXeYWCR7p6r6v5knzILNgZBld20240418202134True_X-Zyte.jpg" group-title="ของดีรวมช่อง",True X-Zyte
-https://hls.iptv-th.workers.dev/live/4017/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/OAKVNDjHnd3apWD5aDd1pWbQLwSfjcV20240418202640Food.jpg" group-title="ของดีรวมช่อง",Food NetWork
-https://hls.iptv-th.workers.dev/live/4016/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/Xrmj9ACFPyk5WQe1p9HOKO7dNCYuA8720240418202628AFN.jpg" group-title="ของดีรวมช่อง",Asian Food Network
-https://hls.iptv-th.workers.dev/live/4015/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/LL7QT6AMe22XIkCzWGa0FseaXQrS0Mp20240418201026RockEnterment.jpg" group-title="ของดีรวมช่อง",Rock Entertainment
-https://hls.iptv-th.workers.dev/live/4013/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/wwS1fmIzbe3hHMGMzLdEqvJd09D7zX320240418201014RockAction.jpg" group-title="ของดีรวมช่อง",Rock Action
-https://hls.iptv-th.workers.dev/live/4012/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/y650W30XhYA64swgWGbE2tECSst8Nry7d74eda0-2515-11ee-864f-a52221dad038_webp_original.png" group-title="ของดีรวมช่อง",Reality Channel
-https://hls.iptv-th.workers.dev/live/3666/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/Fqurv4dlw7J7F9yoQ0VVF2eWrzPoP9g20240418202717Fashion_TV.jpg" group-title="ของดีรวมช่อง",Fashion TV
-https://hls.iptv-th.workers.dev/live/1092/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/LStp3xdJbQkAdRuaqPAR2Fv6qtKYqyb20240418202741Cool_Channel.jpg" group-title="ของดีรวมช่อง",Cool Chanel
-https://hls.iptv-th.workers.dev/live/2567/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PlayID ซีรีอินเตอ" tvg-logo="http://103.114.203.129:8080/images/a166867875fe0c803aba05d21d689353.png" group-title="ช่องพรีเมียม พิเศษ",PlayID ซีรีอินเตอ
+http://103.114.203.129:8080/toom/12345/17715
+#EXTINF:-1 tvg-id="369754" tvg-name="PLAID Asian" tvg-logo="http://103.114.203.129:8080/images/280742def76ffc9cf86f8e13b39a8f7f.png" group-title="ช่องพรีเมียม พิเศษ",PLAID Asian
+http://103.114.203.129:8080/toom/12345/18833
+#EXTINF:-1 tvg-id="" tvg-name="ซีรีเอเชีย" tvg-logo="http://103.114.203.129:8080/images/71b7b337e2987e91fec8e799fe2841ef.png" group-title="ช่องพรีเมียม พิเศษ",ซีรีเอเชีย
+http://103.114.203.129:8080/toom/12345/15672
+#EXTINF:-1 tvg-id="" tvg-name="PlayID Series พากย์ไทย" tvg-logo="http://103.114.203.129:8080/images/3e278b4756914c02e1791e6d441692e5.png" group-title="ช่องพรีเมียม พิเศษ",PlayID Series พากย์ไทย
+http://103.114.203.129:8080/toom/12345/17239
+#EXTINF:-1 tvg-id="" tvg-name="PlayID Universal" tvg-logo="http://103.114.203.129:8080/images/78068d0f0c20c6b8a2bfdeb58343c7bd.png" group-title="ช่องพรีเมียม พิเศษ",PlayID Universal
+http://103.114.203.129:8080/toom/12345/17237
+#EXTINF:-1 tvg-id="" tvg-name="PlayID-Movie" tvg-logo="http://103.114.203.129:8080/images/3c646a1b12bcfb038dc167aa4c69a821.png" group-title="ช่องพรีเมียม พิเศษ",PlayID-Movie
+http://103.114.203.129:8080/toom/12345/17788
+#EXTINF:-1 tvg-id="368396" tvg-name="PlayID-4K BOX" tvg-logo="http://103.114.203.129:8080/images/c251c977571222e2ba4a0a39b6269df2.png" group-title="ช่องพรีเมียม พิเศษ",PlayID-4K BOX
+http://103.114.203.129:8080/toom/12345/76
+#EXTINF:-1 tvg-id="" tvg-name="โคนัน วันพีซ" tvg-logo="http://103.114.203.129:8080/images/5963ec11c666ea07f9c1d1a9db3ba547.jpg" group-title="ช่องพรีเมียม พิเศษ",โคนัน วันพีซ
+http://103.114.203.129:8080/toom/12345/15674
+#EXTINF:-1 tvg-id="TRFILMHD.th" tvg-name="TR-FILM 1 FHD" tvg-logo="http://103.114.203.129:8080/images/3490d9c0074b737940eb3f45cbbfde3a.jpg" group-title="ช่องภาพยนตร์ ",TR-FILM 1 FHD
+http://103.114.203.129:8080/toom/12345/67
+#EXTINF:-1 tvg-id="TRFILMHD2.th" tvg-name="TR-FILM 2 FHD" tvg-logo="http://103.114.203.129:8080/images/1cf48d071be5a5c0af1aaf4b78b33e3f.png" group-title="ช่องภาพยนตร์ ",TR-FILM 2 FHD
+http://103.114.203.129:8080/toom/12345/79
+#EXTINF:-1 tvg-id="TRMOVIEHITS.th" tvg-name="True Movie Hits" tvg-logo="http://103.114.203.129:8080/images/ad4de50d1ba14f9709c3f0d61dbb82fc.jpg" group-title="ช่องภาพยนตร์ ",True Movie Hits
+http://103.114.203.129:8080/toom/12345/66
+#EXTINF:-1 tvg-id="TRTHAIFILM.th" tvg-name="TRUE THAI FILM" tvg-logo="http://103.114.203.129:8080/images/5e2071e51b176d90f37a41132459cf88.jpg" group-title="ช่องภาพยนตร์ ",TRUE THAI FILM
+http://103.114.203.129:8080/toom/12345/64
+#EXTINF:-1 tvg-id="TRFILMASIA.th" tvg-name="True Film Asia" tvg-logo="http://103.114.203.129:8080/images/686301f7b48a600297786bfea5609d22.jpg" group-title="ช่องภาพยนตร์ ",True Film Asia
+http://103.114.203.129:8080/toom/12345/70
+#EXTINF:-1 tvg-id="WARNER.th" tvg-name="WarnerTH" tvg-logo="http://103.114.203.129:8080/images/ef006383ecfe2f5d7ba918a5ad713f94.jpg" group-title="ช่องภาพยนตร์ ",WarnerTH
+http://103.114.203.129:8080/toom/12345/74
+#EXTINF:-1 tvg-id="TRASIANMORE.th" tvg-name="True Asian More" tvg-logo="http://103.114.203.129:8080/images/5d0a4b084194df5cb26bf7f089dac626.jpg" group-title="ช่องภาพยนตร์ ",True Asian More
+http://103.114.203.129:8080/toom/12345/80
+#EXTINF:-1 tvg-id="TRSERIES.th" tvg-name="TRUE SERIES" tvg-logo="http://103.114.203.129:8080/images/500a8644b5c0a8777401c5212f736dfa.jpg" group-title="ช่องภาพยนตร์ ",TRUE SERIES
+http://103.114.203.129:8080/toom/12345/138
+#EXTINF:-1 tvg-id="AXN.th" tvg-name="TRUE AXN" tvg-logo="http://103.114.203.129:8080/images/c91d3636b7d10f1f7fe728aa9c413798.jpg" group-title="ช่องภาพยนตร์ ",TRUE AXN
+http://103.114.203.129:8080/toom/12345/52912
+#EXTINF:-1 tvg-id="CELESTIAL.th" tvg-name="TRUE CCM-HD" tvg-logo="http://103.114.203.129:8080/images/a7b576677bc2f5cb34d8f8f1658c57b4.jpg" group-title="ช่องภาพยนตร์ ",TRUE CCM-HD
+http://103.114.203.129:8080/toom/12345/53789
+#EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO FHD" tvg-logo="http://103.114.203.129:8080/images/acc1f9f3464d4247a83e7b667590da0a.jpg" group-title="ช่องภาพยนตร์ ",HBO FHD
+http://103.114.203.129:8080/toom/12345/52913
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX TH" tvg-logo="http://103.114.203.129:8080/images/3c5a5362f881c30781df2a149f70854f.jpg" group-title="ช่องภาพยนตร์ ",CINEMAX TH
+http://103.114.203.129:8080/toom/12345/52918
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX-HD" tvg-logo="http://103.114.203.129:8080/images/3c5a5362f881c30781df2a149f70854f.jpg" group-title="ช่องภาพยนตร์ ",CINEMAX-HD
+http://103.114.203.129:8080/toom/12345/59047
+#EXTINF:-1 tvg-id="HBO Hits.th" tvg-name="HBO HITS" tvg-logo="http://103.114.203.129:8080/images/856e9adfbbbbe93654d69cc57788c781.jpg" group-title="ช่องภาพยนตร์ ",HBO HITS
+http://103.114.203.129:8080/toom/12345/61461
+#EXTINF:-1 tvg-id="HBO Signature.th" tvg-name="HBO Signature" tvg-logo="http://103.114.203.129:8080/images/9d9a739da9d8f649d5ae760c67a6bd10.jpg" group-title="ช่องภาพยนตร์ ",HBO Signature
+http://103.114.203.129:8080/toom/12345/61462
+#EXTINF:-1 tvg-id="HBO.Family.th" tvg-name="HBO Family TH" tvg-logo="http://103.114.203.129:8080/images/0663769fd693e03d40c4c68f3b721a06.jpg" group-title="ช่องภาพยนตร์ ",HBO Family TH
+http://103.114.203.129:8080/toom/12345/61464
+#EXTINF:-1 tvg-id="517642" tvg-name="ROCK X STREAM" tvg-logo="http://103.114.203.129:8080/images/92c55bf0675e369c8edd42d66ffbfa3e.jpg" group-title="ช่องภาพยนตร์ ",ROCK X STREAM
+http://103.114.203.129:8080/toom/12345/37750
+#EXTINF:-1 tvg-id="Mono29.Plus.th" tvg-name="MONO-PLUS" tvg-logo="http://103.114.203.129:8080/images/845167c7862eca223d966682b27bb234.jpg" group-title="ช่องภาพยนตร์ ",MONO-PLUS
+http://103.114.203.129:8080/toom/12345/1709
 
 
 
@@ -1423,6 +1421,11 @@ https://movieproxy.tawatchai250958.workers.dev/watch?id=axn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://movieproxy.tawatchai250958.workers.dev/watch?id=ccm
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="ดูหนัง", CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/118.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/True_Movie_Hits_logo.png" group-title="ดูหนัง",  True MOVIT HIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
