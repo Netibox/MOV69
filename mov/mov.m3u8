@@ -1314,6 +1314,65 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/xWuYjyjR5YdhWyQw4AvNHNUbKiqJ3XE1772683559_0f8c50f1b772f7d5fef9.jpg" group-title="ของดีรวมช่อง",Rock X Stream
+https://hls.iptv-th.workers.dev/live/4157/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/lXrL81tV2V1VtVVoPSoZkHWQZoYmp5K20240418201334HBO.jpg" group-title="ของดีรวมช่อง",HBO HD
+https://hls.iptv-th.workers.dev/live/4011/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/bQ4YS0L57syXFOUGjiqdzifrJ7X39Qh20240418201343HBO_Hits.jpg" group-title="ของดีรวมช่อง",HBO Hits
+https://hls.iptv-th.workers.dev/live/4010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/lH5rtdg3ifB47DixMPKcZnA3RPWXq1T20240418201358HBO_Signature.jpg" group-title="ของดีรวมช่อง",HBO Signature
+https://hls.iptv-th.workers.dev/live/4009/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/UmhPkWMoFLtxwNZe3QUVi8bmMI6h9GJ20240418201412HBO_Family.jpg" group-title="ของดีรวมช่อง",HBO Family
+https://hls.iptv-th.workers.dev/live/4008/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/KnVQV6cQY9cukM79ws1HBDmMTCHq7lk20240418201426cinemax.jpg" group-title="ของดีรวมช่อง",HBO Cinemax
+https://hls.iptv-th.workers.dev/live/4007/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/PInRNtyLBlktvcbbLcDLVdeJABk2B0W202404182013223BBAsian.jpg" group-title="ของดีรวมช่อง",3BB Asian
+https://hls.iptv-th.workers.dev/live/4006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/9E8tvDHOw6eafJgizlDC19mY4Y79yWK20240418201217Mono29Plus.jpg" group-title="ของดีรวมช่อง",Mono29 Plus
+https://hls.iptv-th.workers.dev/live/4005/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/8nv6Gj7KIoHNUoQlnGzFRmkx28QIbUA20240418201607WBTV.jpg" group-title="ของดีรวมช่อง",Warner Tv
+https://hls.iptv-th.workers.dev/live/4004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/6oDAFDNO861t2Fan3zZp4tpEy7XlqUD20240418201633AXN.jpg" group-title="ของดีรวมช่อง",AXN HD
+https://hls.iptv-th.workers.dev/live/4003/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/U4ay3mkGw4JliPY1T1dnI8wvh00jumS20240418202419True_MoviesHits.jpg" group-title="ของดีรวมช่อง",True Movie Hits
+https://hls.iptv-th.workers.dev/live/4000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/wi0UchAkl1soCyVTRq3NxoN3QPUr6k720240418202244True_FilmAsia.jpg" group-title="ของดีรวมช่อง",True Film Asia
+https://hls.iptv-th.workers.dev/live/3999/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/VGcXZj1a4vopmc4ZHWwrI32AVBk1tDb20240418202437True_Thai_Film.jpg" group-title="ของดีรวมช่อง",True Thai Film
+https://hls.iptv-th.workers.dev/live/3998/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/cL7v6l6Q6HMSEcrouRbvo6cmlfoE5Ls20240418202230True_Series.jpg" group-title="ของดีรวมช่อง",True Series
+https://hls.iptv-th.workers.dev/live/3996/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/v233B66LWKJDyS4ZrT6CsJeHVSxA14vChatGPT_Image_10_ก.พ._2569_21_25_11.png" group-title="ของดีรวมช่อง",True Film HD
+https://hls.iptv-th.workers.dev/live/4123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/2OyiZvxJCvD2sC1AzijiJbludMKnDkRChatGPT_Image_10_ก.พ._2569_21_29_37.png" group-title="ของดีรวมช่อง",True Film HD 2
+https://hls.iptv-th.workers.dev/live/4124/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/12je7QsNXmVj7OtnlZFJOWzrdfKdbRn20240418202614True_Asian_More.jpg" group-title="ของดีรวมช่อง",True Asian More
+https://hls.iptv-th.workers.dev/live/3995/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/RFash764MAXgjDW4OqR1U8dGgmAtsSK20240421154338CCM.jpg" group-title="ของดีรวมช่อง",CCM
+https://hls.iptv-th.workers.dev/live/3994/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/N7Szi4xawuoxTJvI6wZLYicGyznJJaC20240418201201Mono29music.jpg" group-title="ของดีรวมช่อง",Mono 29 Music
+https://hls.iptv-th.workers.dev/live/4111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/Hh2de9hXeYWCR7p6r6v5knzILNgZBld20240418202134True_X-Zyte.jpg" group-title="ของดีรวมช่อง",True X-Zyte
+https://hls.iptv-th.workers.dev/live/4017/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/OAKVNDjHnd3apWD5aDd1pWbQLwSfjcV20240418202640Food.jpg" group-title="ของดีรวมช่อง",Food NetWork
+https://hls.iptv-th.workers.dev/live/4016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/Xrmj9ACFPyk5WQe1p9HOKO7dNCYuA8720240418202628AFN.jpg" group-title="ของดีรวมช่อง",Asian Food Network
+https://hls.iptv-th.workers.dev/live/4015/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/LL7QT6AMe22XIkCzWGa0FseaXQrS0Mp20240418201026RockEnterment.jpg" group-title="ของดีรวมช่อง",Rock Entertainment
+https://hls.iptv-th.workers.dev/live/4013/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/wwS1fmIzbe3hHMGMzLdEqvJd09D7zX320240418201014RockAction.jpg" group-title="ของดีรวมช่อง",Rock Action
+https://hls.iptv-th.workers.dev/live/4012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/y650W30XhYA64swgWGbE2tECSst8Nry7d74eda0-2515-11ee-864f-a52221dad038_webp_original.png" group-title="ของดีรวมช่อง",Reality Channel
+https://hls.iptv-th.workers.dev/live/3666/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/Fqurv4dlw7J7F9yoQ0VVF2eWrzPoP9g20240418202717Fashion_TV.jpg" group-title="ของดีรวมช่อง",Fashion TV
+https://hls.iptv-th.workers.dev/live/1092/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/LStp3xdJbQkAdRuaqPAR2Fv6qtKYqyb20240418202741Cool_Channel.jpg" group-title="ของดีรวมช่อง",Cool Chanel
+https://hls.iptv-th.workers.dev/live/2567/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/hd-mono.png" group-title="ดูหนัง",MONOMAX29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
