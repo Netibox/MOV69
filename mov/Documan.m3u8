@@ -1397,6 +1397,37 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/zdhCLy6UYLJBvB3VBj5NO01mGWWSPcXดาวน์โหลด.jpg" group-title="ของดีรวมช่อง",History
+https://hls.iptv-th.workers.dev/live/4047/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/rSaQcQYOS8ELvJYkE0C7CtBpaYPawLU20240418210201DiscoveryAsia.jpg" group-title="ของดีรวมช่อง",Discovery Asia
+https://hls.iptv-th.workers.dev/live/4032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/b6taWX6IAqHpIFdXbppf1AQr2C7RX1V20240418210226Discovery.jpg" group-title="ของดีรวมช่อง",Discovery Channel
+https://hls.iptv-th.workers.dev/live/4031/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/2unFFxeOy3RAUS2qBnFGwZJrmi7mMSV20240418210101BBC_lifestyle.jpg" group-title="ของดีรวมช่อง",BBC Lifestyle
+https://hls.iptv-th.workers.dev/live/4030/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/xJolPDDjYDiKwCqco8AQlridPRtkAhG20240418210246TLC.jpg" group-title="ของดีรวมช่อง",TLC
+https://hls.iptv-th.workers.dev/live/4028/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/5AFnK7kDIKJXmvX8TG7pXIp8ztdogaS20240418210353TrueExploreWild.jpg" group-title="ของดีรวมช่อง",True Explore Wild
+https://hls.iptv-th.workers.dev/live/4027/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/95IkhFButjcnOt0OvrVJFoE5VCmHmfr20240418210412TrueExploreLife.jpg" group-title="ของดีรวมช่อง",True Explore LIFE
+https://hls.iptv-th.workers.dev/live/4026/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/ZIv5U9MdjGVSQpjorREQi6093xPyxrO20240418210428TrueExploreSci.jpg" group-title="ของดีรวมช่อง",True Explore SCI
+https://hls.iptv-th.workers.dev/live/4025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/frrGRi3NDdm44cQvpdgSRHR8MkSar2M20240418211511MySci.jpg" group-title="ของดีรวมช่อง",My Sci
+https://hls.iptv-th.workers.dev/live/4024/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/0P7dMU9RszIrBlm5SIu7LBvu7NbM43C20240418211325KhongDeeThailand.jpg" group-title="ของดีรวมช่อง",ของดีประเทศไทย
+https://hls.iptv-th.workers.dev/live/4023/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/8ZQYFTSZbqMUgUreIqPXzThToQvSIlK16813190-2248-11ef-857f-891570708cee_webp_original.png" group-title="ของดีรวมช่อง",True ปลูกปัญญา
+https://hls.iptv-th.workers.dev/live/3667/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/I8dHu0Wu2Wewg6OApRd4RkvepNgpprK20240418211432AnimalShow.jpg" group-title="ของดีรวมช่อง",Animal Show
+https://hls.iptv-th.workers.dev/live/2652/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/1JZYoEILB5rlyNG9g2Iqz7JFz3aKKqMthainess.png" group-title="ของดีรวมช่อง",Thai ness
+https://hls.iptv-th.workers.dev/live/2650/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/hwlqMfGYykYbQxa2INjot4HL3974ezW20240418211443SamRujLok.jpg" group-title="ของดีรวมช่อง",สำรวจโลก
+
+
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="สารคดี",Discovery 
 https://movieproxy.tawatchai250958.workers.dev/watch?id=discovery
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Discovery_Asia_logo.png/revision/latest/scale-to-width-down/508?cb=20260411142105&path-prefix=vi" group-title="สารคดี",Discovery Asia
