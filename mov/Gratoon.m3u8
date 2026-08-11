@@ -1347,6 +1347,23 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/82ZMK1MAkVRoCjPZrpW8T4oYqnbkaGe20240418205416Cartoonito.jpg" group-title="ของดีรวมช่อง",Cartoonito
+https://hls.iptv-th.workers.dev/live/4022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/aj94MAqnB1aXs0APabvtoZvzOYvL7to20240418205237Nickelodeon.jpg" group-title="ของดีรวมช่อง",Nickelodeon Channel
+https://hls.iptv-th.workers.dev/live/4021/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/aaxfenhWIXUGlk5aR9Vac6bPvRrF4LB20240418205933Dream_Works1.jpg" group-title="ของดีรวมช่อง",DreamWorks
+https://hls.iptv-th.workers.dev/live/4020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/s7TWxNBp2mAMoYg3TxXDnsdZoopGQIQ20240418203048Nickjr.jpg" group-title="ของดีรวมช่อง",Nick Jr. Eng
+https://hls.iptv-th.workers.dev/live/4019/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/PcZ4i5T2zwHcJ37M4fzaGd2DW8Ceclg20240418202927CN.jpg" group-title="ของดีรวมช่อง",Cartoon Network
+https://hls.iptv-th.workers.dev/live/4018/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/7x13395Mvr48jZsRdc7AxAdzZoYK5IOe810afc0-3fba-11f0-8cc5-8d160eb89f9f_webp_original.png" group-title="ของดีรวมช่อง",บูมเมอแรง
+https://hls.iptv-th.workers.dev/live/3929/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.beartai.com/wp-content/uploads/2024/07/Cartoon-Network.jpg" group-title="กีฬาไทย",  CN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
