@@ -1315,8 +1315,6 @@
 
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PlayID ซีรีอินเตอ" tvg-logo="http://103.114.203.129:8080/images/a166867875fe0c803aba05d21d689353.png" group-title="ช่องพรีเมียม พิเศษ",PlayID ซีรีอินเตอ
 http://103.114.203.129:8080/toom/12345/17715
 #EXTINF:-1 tvg-id="369754" tvg-name="PLAID Asian" tvg-logo="http://103.114.203.129:8080/images/280742def76ffc9cf86f8e13b39a8f7f.png" group-title="ช่องพรีเมียม พิเศษ",PLAID Asian
@@ -1390,6 +1388,11 @@ https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg" group-title="ดูหนัง",HBO เซิฟนอก เทสๆ2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115714.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x822.png" group-title="ดูหนัง",HBO HIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
