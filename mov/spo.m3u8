@@ -1354,6 +1354,153 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="EPL",ASTRO 1 MY
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1016544&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="EPL",ASTRO 2 MY
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=918985&extension=ts
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-1.png" group-title="EPL",HUB 1 
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314077&extension=ts
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-1.png" group-title="EPL",HUB 1 
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1314077&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="EPL",HUB 2 
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314078&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="EPL",HUB 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1314078&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/V_Sport_Premier_League.svg/revision/latest/scale-to-width-down/300?cb=20220701201704" group-title="EPL",V SP NO
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1001366&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="EPL",SKY UK
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458669&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="EPL",SKY UK
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=394557&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="EPL",SKY DE
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=971711&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="EPL",SKY DE
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1149432&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="EPL",SKY NZ
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1424311&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bz4tc1659618659.png" group-title="EPL",NOVA GR
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1432151&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bz4tc1659618659.png" group-title="EPL",NOVA GR
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1879&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Play_Sports_1.png" group-title="EPL",PLAY 1 BE
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=811941&extension=ts
+
+
+
+
+
+=======================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="รวมมิตร",SKY MAIN UK
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458672&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="รวมมิตร",SKY MAIN UK
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=394553&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="รวมมิตร",SKY RACING UK
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458668&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="รวมมิตร",SKY RACING UK
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1198276&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="รวมมิตร",SKY TENNIS UK
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458813&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="รวมมิตร",SKY TENNIS UK
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=394549&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="รวมมิตร",SKY TENNIS DE
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1149433&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="รวมมิตร",SKY TENNIS IT
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=692433&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="รวมมิตร",SKY F1 UK
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=394543&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="รวมมิตร",SKY F1 IT
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=692429&extension=ts
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1689778027.png" group-title="รวมมิตร",TNT 1
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458678&extension=ts
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1689778027.png" group-title="รวมมิตร",TNT 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458666&extension=ts
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/BT25f03c0b09807c7a.png" group-title="รวมมิตร",TNT 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1091514&extension=ts
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1689778027.png" group-title="รวมมิตร",TNT 3
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458665&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1689778027.png" group-title="รวมมิตร",TNT 4
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1002857&extension=ts
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="รวมมิตร",EURO SP 1
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458649&extension=ts
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="รวมมิตร",EURO SP 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=547747&extension=ts
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1442.1642633783.png" group-title="รวมมิตร",LFC TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458774&extension=ts
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1442.1642633783.png" group-title="รวมมิตร",LFC TV
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1312823&extension=ts
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1442.1642633783.png" group-title="รวมมิตร",LFC TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312823&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/250px-MUTV_logo.png" group-title="รวมมิตร",MUTV
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458773&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/250px-MUTV_logo.png" group-title="รวมมิตร",MUTV
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1312824&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/250px-MUTV_logo.png" group-title="รวมมิตร",MUTV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312824&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/video-photography-multimedia/live-icon.png" group-title="รวมมิตร",CFC TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=45327&extension=ts
+
+
+=======================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1825/1825374.png" group-title="สารคดี",ANINAL PLANET
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=549398&extension=ts
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1825/1825374.png" group-title="สารคดี",DISCOVERY TURBO
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=549402&extension=ts
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1825/1825374.png" group-title="สารคดี",NATIONAL GEO
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458749&extension=ts
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1825/1825374.png" group-title="สารคดี",NATIONAL GEO WILD
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458748&extension=ts
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1825/1825374.png" group-title="สารคดี",DISCOVERY
+http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458756&extension=ts
+
+#---------------------------------------------------------------------------------------------------------
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://v3tv.live/
