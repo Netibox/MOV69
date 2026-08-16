@@ -1375,6 +1375,17 @@ http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115534.m3u8
 https://github.com/Netibox/MOV69/raw/refs/heads/main/testmac/TSP2.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/Netibox/MOV69/raw/refs/heads/main/testmac/TSP3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="กีฬาไทย",True Sports 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/Netibox/MOV69/raw/refs/heads/main/testmac/TSP7.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trueID_3.webp" group-title="ช่อง SPORTS - 2", True Premier Football 3 ถ่ายทอดสด
