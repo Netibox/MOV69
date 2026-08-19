@@ -1345,95 +1345,95 @@
 
 
 
-#EXTINF:-1 tvg-chno="33"  tvg-id="3 HD.th" tvg-name="3 HD" group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",3HD
+#EXTINF:-1 tvg-chno="33"  tvg-id="3 HD.th" tvg-name="3 HD" group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/3hd.png",3HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/18.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://thaitv5hd.com/web/img/logo.png",5HD
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/channel5.png",5HD
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net:25461/
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/4.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ch-7-HD-Logo-crop.png/250px-Ch-7-HD-Logo-crop.png",7HD
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/channel7hd.png",7HD
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.ch7.com/live.html
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/MCOT_Ch9_Logo.png/250px-MCOT_Ch9_Logo.png",MCOT
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/mcothd.png",MCOT
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/15.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NBT_2025.svg/250px-NBT_2025.svg.png",NBT
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.prachachat.net/wp-content/uploads/2020/03/logo-nbt.jpg",NBT
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://prdee.prd.go.th/live/63bd400d0deca90012ce6c88
 https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w831618011_b2128000.m3u8?null
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Thai_PBS_Logo_2016.svg/250px-Thai_PBS_Logo_2016.svg.png",ThaiPBS
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/thaipbs.png",ThaiPBS
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.thaipbs.or.th/live
 https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TNN16_Logo.png/250px-TNN16_Logo.png",TNN
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/tnn16.png",TNN
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nation_TV_logo.png/120px-Nation_TV_logo.png",NationTV
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/nation.png",NationTV
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/9.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://s.isanook.com/ns/0/ud/1561/7807474/new-logo-thairath.jpg?ip/resize/w728/q80/jpg",ThairathTV
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/thairathtv.png",ThairathTV
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://famelack.com/tv/th
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/17.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/250px-Amarin_TV_HD_34_Logo.svg.png",AmarinTV
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/amarintv.png",AmarinTV
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/19.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://img-ha.mthcdn.com/OpS_F7XGjX2y6lsXxhvUOIfOX0k=/mthai.com/app/uploads/2021/05/true4u-24-tv.png",true4u
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/true4u.png",true4u
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/11.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/b/bd/GMM_25_logo.svg/250px-GMM_25_logo.svg.png",GMM25
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/gmmchannel.png",GMM25
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/12.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Channel_8_2024.svg/250px-Channel_8_2024.svg.png",ช่อง8
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/channel8.png",ช่อง8
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/13.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MONO292025.png/250px-MONO292025.png",MONO29
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/mono29.png",MONO29
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/14.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/e/ef/Watermark-ONE.png/250px-Watermark-ONE.png",ONED
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/onehd.png",ONED
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://famelack.com/tv/th
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/16.m3u8
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png",AmarinTV HD
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/amarintv.png",AmarinTV HD
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://famelack.com/tv/th
 https://live-us1.thaimomo.com/live-as/chamarin-3/chunklist_w1663485805.m3u8
     
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/WORKPOINT_Logo.svg/250px-WORKPOINT_Logo.svg.png",workpoint
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/workpoint.png",workpoint
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.workpointtv.com/live-stream-page
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/10.m3u88
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/250px-PPTV_logo_2019.svg.png",PPTV
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/pptvhd.png",PPTV
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 
-#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cropped-topnews-logo.png/250px-Cropped-topnews-logo.png",topnews
+#EXTINF:-1 group-title="🖥️ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/toptv.png",topnews
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
@@ -1442,103 +1442,77 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #-------------------------------------------ช่องSPORTS2---------------------------------------------------------------------------------------------#
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SPORT1",Bein1
+
+
+#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="⚽SPORT2",TRUE Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd2.png" group-title="⚽SPORT2",TRUE Sport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd3.png" group-title="⚽SPORT2",TRUE Sport 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd7.png" group-title="⚽SPORT2",TRUE Sport 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport4.th" tvg-name="TRUE Sport 4" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd4.png" group-title="⚽SPORT2",TRUE Sport 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 5" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="⚽SPORT2",TRUE Sport 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp4/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein1.png" group-title="⚽SPORT1",Bein sport 1 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein2.png" group-title="⚽SPORT1",Bein sport 2 HD
+https://fhmnf4mvc0.nuu-mai-kin-pad-nuu-mai-kin-pad.sbs/xstream/bein-2-th/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein2.png" group-title="⚽SPORT1",beIN Sports 2  สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/error-main/bein1.m3u8
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SPORT1",Bein2
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="⚽SPORT1",beIN Sports 3  สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/error-main/bein2.m3u8
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SPORT1",Bein3
+#EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/05/fyr.jpg" group-title="⚽SPORT1",Monomax 1 
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130732
+
+
+#EXTINF:-1 tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/05/fyr.jpg" group-title="⚽SPORT1",Monomax 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/error-main/bein3.m3u8
+#EXTVLCOPT:http-referrer=http://fastopen.live:8080/
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 1 HD
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="⚽SPORT1",,Monomax 2  สำรอง1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/Netibox/MOV69/raw/refs/heads/main/error-main/sp1.m3u8
+#EXTVLCOPT:http-referrer=liveballhd365.com
+https://cdn1.googlecdn.live/duball356/monomax-2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 2 HD
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="⚽SPORT1",,Monomax 2  สำรอง2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/Netibox/MOV69/raw/refs/heads/main/error-main/sp2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/Netibox/MOV69/raw/refs/heads/main/error-main/sp3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/Netibox/MOV69/raw/refs/heads/main/error-main/sp7.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://ultratv.one/
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115531.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/Netibox/MOV69/raw/refs/heads/main/testmac/TSP1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://ultratv.one/
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115534.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/Netibox/MOV69/raw/refs/heads/main/testmac/TSP2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/Netibox/MOV69/raw/refs/heads/main/testmac/TSP3.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/Netibox/MOV69/raw/refs/heads/main/testmac/TSP7.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://v3tv.live/
-https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/server1-sport-tsp1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://v3tv.live/
-https://sportporxy3.istyledode.workers.dev/play?url=https://tspporxy.istyledode.workers.dev/play?id=2820
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
-https://sport2porxy.istyledode.workers.dev/play?url=https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/mov/server1-sport-tsp2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/250px-True_Sport_Logo.png" group-title="⚽SPORT1",True Sports 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
-https://sport2porxy.istyledode.workers.dev/play?url=https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/mov/server1-sport-tsp2.m3u8
-
-
-
+#EXTVLCOPT:http-referrer=https://footballsod.live/
+https://cdn1.googlecdn.live/4k/monomax-2/chunks.m3u8
 
 
 
@@ -1547,6 +1521,7 @@ https://sport2porxy.istyledode.workers.dev/play?url=https://raw.githubuserconten
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #https://cdn1.googlecdnforstreaming.live/live/tpf3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trueID_3.webp" group-title="⚽SPORT1", True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
@@ -1556,6 +1531,7 @@ https://cdn2.stream.atmflix.live/atmflixlive/tpf3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #https://cdn1.googlecdnforstreaming.live/live/tpf4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trueID_4.webp" group-title="⚽SPORT1", True Premier Football 4 ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
@@ -1565,6 +1541,7 @@ https://cdn2.stream.atmflix.live/atmflixlive/tpf4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #https://cdn1.googlecdnforstreaming.live/live/tpf5/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trueID_5.webp" group-title="⚽SPORT1", True Premier Football 5 ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
@@ -1679,18 +1656,11 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/45.m3u8
 
 
 
-
-
-#---------------------------------------------------------------------------------------------------------
-
-
-
-
 #EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="⚽SPORT2",TRUE Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp1/playlist.m3u8
-#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd2.png" group-title="⚽SPORT2",TRUE Sport 2 HD
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd2.png" group-title="⚽SPORT2",TRUE Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
@@ -1700,47 +1670,46 @@ https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd7.png" group-title="⚽SPORT2",TRUE Sport 7 HD
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd7.png" group-title="⚽SPORT2",TRUE Sport 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport4.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd4.png" group-title="⚽SPORT2",TRUE Sport 4 HD
+#EXTINF:-1 tvg-id="TrueSport4.th" tvg-name="TRUE Sport 4" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd4.png" group-title="⚽SPORT2",TRUE Sport 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="⚽SPORT2",TRUE Sport 5 HD
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 5" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="⚽SPORT2",TRUE Sport 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp4/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein1.png" group-title="⚽SPORT2",Bein sport 1 HD
-http://139.99.61.175:25461/M9005/6825/151
+
 #EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein1.png" group-title="⚽SPORT2",Bein sport 1 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/bein1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein2.png" group-title="⚽SPORT2",Bein sport 2 HD
-https://fhmnf4mvc0.nuu-mai-kin-pad-nuu-mai-kin-pad.sbs/xstream/bein-2-th/playlist.m3u8?
+
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein2.png" group-title="⚽SPORT2",beIN Sports 2  สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/bein2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="⚽SPORT2",Bein sport 3 HD
-http://139.99.61.175:25461/M9005/6825/152
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="⚽SPORT2",beIN Sports 3  สำรอง
+
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="⚽SPORT2",beIN Sports 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/bein3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/05/fyr.jpg" group-title="⚽SPORT2",Monomax 1 
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130732
-# --- MONOMAX 2 ---
+
+#--- MONOMAX 2 ---# 
+
 #EXTINF:-1 tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/05/fyr.jpg" group-title="⚽SPORT2",Monomax 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://fastopen.live:8080/
@@ -1770,9 +1739,13 @@ https://cdn1.googlecdn.live/4k/monomax-2/chunks.m3u8
 # ---------------------------------------------------------- All sport in sport-2 ------------------------------------------------------------
 #EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="⚽SPORT2",LFC TV
 https://hls.iptv-th.workers.dev/live/161/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="⚽SPORT2",MUTV
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 https://get.perfecttv.net/mutv.mpd
+
+#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="⚽SPORT2",MUTV
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=mutv
 
 
@@ -1782,16 +1755,14 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312824&
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312823&extension=m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/jFdF6E5g17N2vZ6iHex08eH11zHbZlyspotv.png" group-title="⚽SPORT2",Spotv1
-http://139.99.61.175:25461/M9005/6825/149
-#EXTINF:-1 tvg-id="spotv-1-hd" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/jFdF6E5g17N2vZ6iHex08eH11zHbZlyspotv.png" group-title="⚽SPORT2",Spotv1 สำรอง
+
+#EXTINF:-1 tvg-id="spotv-1-hd" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/jFdF6E5g17N2vZ6iHex08eH11zHbZlyspotv.png" group-title="⚽SPORT2",Spotv1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/spotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/MjjNBcRjUcAq8qMlGMLE5lD97u28Quzspotv2.png" group-title="⚽SPORT2",Spotv2
-http://139.99.61.175:25461/M9005/6825/14229
-#EXTINF:-1 tvg-id="spotv-2-hd" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/jFdF6E5g17N2vZ6iHex08eH11zHbZlyspotv.png" group-title="⚽SPORT2",Spotv2 สำรอง
+
+#EXTINF:-1 tvg-id="spotv-2-hd" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/jFdF6E5g17N2vZ6iHex08eH11zHbZlyspotv.png" group-title="⚽SPORT2",Spotv2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/spotv2/playlist.m3u8
@@ -1965,10 +1936,12 @@ https://github.com/Netibox/MOV69/raw/refs/heads/main/mov/server1-movies-hbo.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg" group-title="🎬ดูหนัง",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg" group-title="🎬ดูหนัง",HBO-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
@@ -1988,14 +1961,17 @@ http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115714.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://iptv.tawatchai250958.workers.dev/?url=http://tiea1.3bbddns.com:28470/4.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Hbo_signature.png" group-title="🎬ดูหนัง",HBO SIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://movieproxy.tawatchai250958.workers.dev/watch?id=aishbosignature
+
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-12-at-5.57.25-PM.png" group-title="🎬ดูหนัง",HBO Flimaiy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/135.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="🎬ดูหนัง", Cenimax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
@@ -2054,14 +2030,7 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbohits.png" group-title="🎞️ภาพยนตร์",HBO Hit
-https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbosig.png" group-title="🎞️ภาพยนตร์",HBO Signature
-https://hls.iptv-th.workers.dev/live/72/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/hbofamily.png" group-title="🎞️ภาพยนตร์",HBO Family
-https://hls.iptv-th.workers.dev/live/65/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/axn.png" group-title="🎞️ภาพยนตร์",AXN HD
-https://hls.iptv-th.workers.dev/live/68/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg" group-title="🎞️ภาพยนตร์",MOVIE1 SERIES
 http://49.0.64.96:8007/SERIES
@@ -2083,73 +2052,7 @@ https://fernntv.dpdns.org/api/iptv-proxy?url=http://mooseven.ddns.net:8080/live/
 https://fernntv.dpdns.org/api/iptv-proxy?url=http://mooseven.ddns.net:8080/live/test/testm7/119703.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/yyXcdVEDUhL8YOcH9hmvHHp4JSq4rH0Untitled-1.jpg" group-title="🎞️ภาพยนตร์",Rock Entertainment
-https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/cPv75zm9B3WiGtFrAjl2U1AInA4IpoAUntitled-1.jpg" group-title="🎞️ภาพยนตร์",ROCK Action
-https://hls.iptv-th.workers.dev/live/33/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/fasionone.png" group-title="🎞️ภาพยนตร์",Fashion one
-https://hls.iptv-th.workers.dev/live/35/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/IbbwhGuE0fIO2qvs0QVIHnNplrHsmG5Untitled-1.jpg" group-title="🎞️ภาพยนตร์",Food Network Asia
-https://hls.iptv-th.workers.dev/live/36/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/2ViJvwI2jKQyt3wmFPZnGSV8P8mYaQbUntitled-1.jpg" group-title="🎞️ภาพยนตร์",Asian food network AFN
-https://hls.iptv-th.workers.dev/live/38/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/lifetimehd.png" group-title="🎞️ภาพยนตร์",Liifetime HD
-https://hls.iptv-th.workers.dev/live/40/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/qwdjcyFPMEcB8ZZ2i6vHIc4uZW3VnC5download_(1).png" group-title="🎞️ภาพยนตร์",BBC Lifestyle
-https://hls.iptv-th.workers.dev/live/49/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/wVCVw7L69dRUntitled-1-Recovered.jpg" group-title="🎞️ภาพยนตร์",Arirang
-https://hls.iptv-th.workers.dev/live/245/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/RDNUpjevvyvJFFLteyFNsKl55YCGfrvUntitled-1.jpg" group-title="🎞️ภาพยนตร์",CCTV 4
-https://hls.iptv-th.workers.dev/live/271/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/3ko8ZsA3hGfMQ662DxEzMRxRudiouC9kbs_(1).png" group-title="🎞️ภาพยนตร์",KBS World
-https://hls.iptv-th.workers.dev/live/83/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/truexzyte.png" group-title="🎞️ภาพยนตร์",True Xzyte
-https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/slJFS0oWHIpUntitled-1.jpg" group-title="🎞️ภาพยนตร์",TechStorm TV
-https://hls.iptv-th.workers.dev/live/280/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/fUH4QXVIvl6ช่อง.jpg" group-title="🎞️ภาพยนตร์",Mono Music
-https://hls.iptv-th.workers.dev/live/343/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/ePP8UaRIcYsmjtmNcbGrN9pXvcChPTZdreamwork.png" group-title="🎞️ภาพยนตร์",Dreamwork
-https://hls.iptv-th.workers.dev/live/59/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/cinemax.png" group-title="🎞️ภาพยนตร์",Cinemax
-https://hls.iptv-th.workers.dev/live/62/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/wbtv.png" group-title="🎞️ภาพยนตร์",Warner TV
-https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
-#EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="🎞️ภาพยนตร์",True Film Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://m7play.online/
-#EXTVLCOPT:http-origin=http://m7play.online
-http://mooseven.ddns.net:8080/live/test/testm7/108.m3u8
-#EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="🎞️ภาพยนตร์",True Asian More
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://m7play.online/
-#EXTVLCOPT:http-origin=http://m7play.online
-http://mooseven.ddns.net:8080/live/test/testm7/30760.m3u8
-#EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="🎞️ภาพยนตร์",True Thai Film
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://m7play.online/
-#EXTVLCOPT:http-origin=http://m7play.online
-http://mooseven.ddns.net:8080/live/test/testm7/104.m3u8
-#EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="🎞️ภาพยนตร์",True Film 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://m7play.online/
-#EXTVLCOPT:http-origin=http://m7play.online
-http://mooseven.ddns.net:8080/live/test/testm7/238349.m3u8
-#EXTINF:-1 tvg-id="truefilm2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/True_Film_2_logo.png/revision/latest?cb=20240416043007&path-prefix=vi" group-title="🎞️ภาพยนตร์",True Film 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://m7play.online/
-#EXTVLCOPT:http-origin=http://m7play.online
-#http://mooseven.ddns.net:8080/live/test/testm7/244966.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/lCrOElry5MTJ3aGNq3GN8UlIRQ7LS4rtrueseries.png" group-title="🎞️ภาพยนตร์",True Series
-http://mooseven.ddns.net:8080/live/test/testm7/103.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/CgLZMVLSZKNMMeGb1H5n2iiN37ODTzl3-logo-3BB-Asian-ช่องรายการ_370x180_(1).jpeg" group-title="🎞️ภาพยนตร์",3BB Asia
-https://hls.iptv-th.workers.dev/live/44/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sbLMUWTMUljJyAYYGs1oMA5qgbFuCKNgem.jpeg" group-title="🎞️ภาพยนตร์",GEM
-https://hls.iptv-th.workers.dev/live/37/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/ccm.png" group-title="🎞️ภาพยนตร์",Celestial Classic Movies
-https://hls.iptv-th.workers.dev/live/34/playlist.m3u8
 
 #-------------------------------------------สารคดี-------------------------------------------------------------------------------------------#
 
@@ -2166,6 +2069,7 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/65.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/74.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png" group-title="👩‍❤️‍👨การตูน",  BOOM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
@@ -2305,11 +2209,6 @@ http://119.59.118.168/live/ch64/thailosonic2026/index.m3u8
 #https://github.com/zaxacaasada/logotv/raw/refs/heads/main/trueccm.m3u8
 #https://love.pifipa2974.workers.dev/lx-origin/sd-celestial_480/chunks.m3u8
 http://119.59.118.168/live/ch62/thailosonic2026/index.m3u8
-
-
-
-
-
 
 
 
