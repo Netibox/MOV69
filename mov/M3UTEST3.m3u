@@ -2141,9 +2141,7 @@ http://mooseven.ddns.net:8080/live/test/testm7/238349.m3u8
 #EXTVLCOPT:http-referrer=http://m7play.online/
 #EXTVLCOPT:http-origin=http://m7play.online
 #http://mooseven.ddns.net:8080/live/test/testm7/244966.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://m7play.online/
-#EXTVLCOPT:http-origin=http://m7play.online
+
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/lCrOElry5MTJ3aGNq3GN8UlIRQ7LS4rtrueseries.png" group-title="🎞️ภาพยนตร์",True Series
 http://mooseven.ddns.net:8080/live/test/testm7/103.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/CgLZMVLSZKNMMeGb1H5n2iiN37ODTzl3-logo-3BB-Asian-ช่องรายการ_370x180_(1).jpeg" group-title="🎞️ภาพยนตร์",3BB Asia
@@ -2164,16 +2162,16 @@ https://hls.iptv-th.workers.dev/live/34/playlist.m3u8
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/65.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2FmNTBkYTItZDZhMy00YzEzLTgyMjMtMjgyM2NmZmM2ODAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="การตูน",  zoomoo
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2FmNTBkYTItZDZhMy00YzEzLTgyMjMtMjgyM2NmZmM2ODAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="👩‍❤️‍👨การตูน",  zoomoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/74.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png" group-title="การตูน",  BOOM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png" group-title="👩‍❤️‍👨การตูน",  BOOM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://103.114.203.129:8080//live/toom/12345/72.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-3DA453A3B0-seeklogo.com.png" group-title="การตูน",  Nickjr
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-3DA453A3B0-seeklogo.com.png" group-title="👩‍❤️‍👨การตูน",  Nickjr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/66.m3u8
