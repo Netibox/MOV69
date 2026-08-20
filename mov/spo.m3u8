@@ -1596,8 +1596,8 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458773&ext
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/250px-MUTV_logo.png" group-title="รวมมิตร",MUTV
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1312824&extension=ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/250px-MUTV_logo.png" group-title="รวมมิตร",MUTV
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312824&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/250px-MUTV_logo.png" group-title="รวมมิตร",MUTV (TS)
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312824&extension=ts
 
 #EXTINF:-1 tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/video-photography-multimedia/live-icon.png" group-title="รวมมิตร",CFC TV
 http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=45327&extension=ts
